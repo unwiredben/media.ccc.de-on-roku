@@ -1,0 +1,268 @@
+{
+   "release_date" : "2019-08-22",
+   "duration" : 5219,
+   "link" : "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10413.html",
+   "view_count" : 2551,
+   "url" : "https://api.media.ccc.de/public/events/d8db148c-39e4-4f1e-af23-a26a477c82ee",
+   "guid" : "d8db148c-39e4-4f1e-af23-a26a477c82ee",
+   "persons" : [
+      "Markus Ossevorth",
+      "Marc-André Janizewski",
+      "Tim Pritlove"
+   ],
+   "date" : "2019-08-21T00:00:00.000+02:00",
+   "promoted" : false,
+   "slug" : "Camp2019-10413-20_jahre_camp",
+   "recordings" : [
+      {
+         "event_url" : "https://api.media.ccc.de/public/events/d8db148c-39e4-4f1e-af23-a26a477c82ee",
+         "url" : "https://api.media.ccc.de/public/recordings/37291",
+         "folder" : "webm-hd",
+         "filename" : "camp19-10413-deu-eng-20_Jahre_Camp_webm-hd.webm",
+         "state" : "new",
+         "mime_type" : "video/webm",
+         "updated_at" : "2019-08-22T16:33:24.086+02:00",
+         "width" : 1920,
+         "language" : "deu-eng",
+         "high_quality" : true,
+         "size" : 1672,
+         "conference_url" : "https://api.media.ccc.de/public/conferences/camp2019",
+         "recording_url" : "https://cdn.media.ccc.de/events/camp2019/webm-hd/camp19-10413-deu-eng-20_Jahre_Camp_webm-hd.webm",
+         "height" : 1080,
+         "length" : 5219
+      },
+      {
+         "length" : 5219,
+         "height" : 576,
+         "recording_url" : "https://cdn.media.ccc.de/events/camp2019/webm-sd/camp19-10413-deu-eng-20_Jahre_Camp_webm-sd.webm",
+         "conference_url" : "https://api.media.ccc.de/public/conferences/camp2019",
+         "size" : 491,
+         "high_quality" : false,
+         "language" : "deu-eng",
+         "width" : 720,
+         "updated_at" : "2019-08-22T15:45:17.652+02:00",
+         "mime_type" : "video/webm",
+         "state" : "new",
+         "filename" : "camp19-10413-deu-eng-20_Jahre_Camp_webm-sd.webm",
+         "event_url" : "https://api.media.ccc.de/public/events/d8db148c-39e4-4f1e-af23-a26a477c82ee",
+         "folder" : "webm-sd",
+         "url" : "https://api.media.ccc.de/public/recordings/37290"
+      },
+      {
+         "language" : "deu-eng",
+         "high_quality" : false,
+         "width" : 720,
+         "updated_at" : "2019-08-22T15:08:44.786+02:00",
+         "height" : 576,
+         "length" : 5219,
+         "size" : 361,
+         "conference_url" : "https://api.media.ccc.de/public/conferences/camp2019",
+         "recording_url" : "https://cdn.media.ccc.de/events/camp2019/h264-sd/camp19-10413-deu-eng-20_Jahre_Camp_sd.mp4",
+         "folder" : "h264-sd",
+         "event_url" : "https://api.media.ccc.de/public/events/d8db148c-39e4-4f1e-af23-a26a477c82ee",
+         "url" : "https://api.media.ccc.de/public/recordings/37289",
+         "mime_type" : "video/mp4",
+         "filename" : "camp19-10413-deu-eng-20_Jahre_Camp_sd.mp4",
+         "state" : "new"
+      },
+      {
+         "language" : "deu",
+         "high_quality" : false,
+         "updated_at" : "2019-08-22T15:05:50.810+02:00",
+         "width" : 0,
+         "length" : 5208,
+         "height" : 0,
+         "size" : 79,
+         "conference_url" : "https://api.media.ccc.de/public/conferences/camp2019",
+         "recording_url" : "https://cdn.media.ccc.de/events/camp2019/mp3/camp19-10413-deu-20_Jahre_Camp_mp3.mp3",
+         "event_url" : "https://api.media.ccc.de/public/events/d8db148c-39e4-4f1e-af23-a26a477c82ee",
+         "folder" : "mp3",
+         "url" : "https://api.media.ccc.de/public/recordings/37288",
+         "mime_type" : "audio/mpeg",
+         "filename" : "camp19-10413-deu-20_Jahre_Camp_mp3.mp3",
+         "state" : "new"
+      },
+      {
+         "mime_type" : "audio/opus",
+         "state" : "new",
+         "filename" : "camp19-10413-deu-20_Jahre_Camp_opus.opus",
+         "event_url" : "https://api.media.ccc.de/public/events/d8db148c-39e4-4f1e-af23-a26a477c82ee",
+         "folder" : "opus",
+         "url" : "https://api.media.ccc.de/public/recordings/37287",
+         "length" : 5208,
+         "height" : 0,
+         "recording_url" : "https://cdn.media.ccc.de/events/camp2019/opus/camp19-10413-deu-20_Jahre_Camp_opus.opus",
+         "conference_url" : "https://api.media.ccc.de/public/conferences/camp2019",
+         "size" : 52,
+         "high_quality" : false,
+         "language" : "deu",
+         "width" : 0,
+         "updated_at" : "2019-08-22T15:05:20.575+02:00"
+      },
+      {
+         "mime_type" : "video/mp4",
+         "filename" : "camp19-10413-deu-eng-20_Jahre_Camp_hd.mp4",
+         "state" : "new",
+         "url" : "https://api.media.ccc.de/public/recordings/37285",
+         "event_url" : "https://api.media.ccc.de/public/events/d8db148c-39e4-4f1e-af23-a26a477c82ee",
+         "folder" : "h264-hd",
+         "length" : 5219,
+         "height" : 1080,
+         "size" : 1453,
+         "conference_url" : "https://api.media.ccc.de/public/conferences/camp2019",
+         "recording_url" : "https://cdn.media.ccc.de/events/camp2019/h264-hd/camp19-10413-deu-eng-20_Jahre_Camp_hd.mp4",
+         "language" : "deu-eng",
+         "high_quality" : true,
+         "width" : 1920,
+         "updated_at" : "2019-08-22T15:03:50.358+02:00"
+      },
+      {
+         "state" : "new",
+         "filename" : "camp19-10413-eng-20_Jahre_Camp.mp4",
+         "mime_type" : "video/mp4",
+         "event_url" : "https://api.media.ccc.de/public/events/d8db148c-39e4-4f1e-af23-a26a477c82ee",
+         "url" : "https://api.media.ccc.de/public/recordings/37284",
+         "folder" : "h264-hd",
+         "conference_url" : "https://api.media.ccc.de/public/conferences/camp2019",
+         "recording_url" : "https://cdn.media.ccc.de/events/camp2019/h264-hd/camp19-10413-eng-20_Jahre_Camp.mp4",
+         "size" : 953,
+         "length" : 5219,
+         "height" : 1080,
+         "width" : 1920,
+         "updated_at" : "2019-08-22T15:03:05.199+02:00",
+         "high_quality" : true,
+         "language" : "eng"
+      },
+      {
+         "language" : "deu",
+         "high_quality" : true,
+         "updated_at" : "2019-08-22T15:02:25.780+02:00",
+         "width" : 1920,
+         "length" : 5219,
+         "height" : 1080,
+         "size" : 953,
+         "recording_url" : "https://cdn.media.ccc.de/events/camp2019/h264-hd/camp19-10413-deu-20_Jahre_Camp.mp4",
+         "conference_url" : "https://api.media.ccc.de/public/conferences/camp2019",
+         "folder" : "h264-hd",
+         "event_url" : "https://api.media.ccc.de/public/events/d8db148c-39e4-4f1e-af23-a26a477c82ee",
+         "url" : "https://api.media.ccc.de/public/recordings/37283",
+         "mime_type" : "video/mp4",
+         "filename" : "camp19-10413-deu-20_Jahre_Camp.mp4",
+         "state" : "new"
+      }
+   ],
+   "conference_url" : "https://api.media.ccc.de/public/conferences/camp2019",
+   "timeline_url" : "https://static.media.ccc.de/media/conferences/camp2019/10413-hd.timeline.jpg",
+   "thumb_url" : "https://static.media.ccc.de/media/conferences/camp2019/10413-hd.jpg",
+   "thumbnails_url" : "https://static.media.ccc.de/media/conferences/camp2019/10413-hd.thumbnails.vtt",
+   "related" : [
+      {
+         "event_guid" : "b69c19ce-7c89-4afd-9396-ea664f80dba7 ",
+         "weight" : 197,
+         "event_id" : 7251
+      },
+      {
+         "event_guid" : "b69c19ce-7c89-4afd-9396-ea664f80dba8 ",
+         "weight" : 117,
+         "event_id" : 7358
+      },
+      {
+         "event_guid" : "a0a0fcfe-b7fb-46e3-84b6-97a5406016b4",
+         "weight" : 254,
+         "event_id" : 7359
+      },
+      {
+         "weight" : 101,
+         "event_id" : 7360,
+         "event_guid" : "c9edea6f-1da1-4772-a0a9-6dd4e33f11bb"
+      },
+      {
+         "event_guid" : "977957d7-ef42-4ea0-8380-b9a48bd583f0",
+         "weight" : 66,
+         "event_id" : 7361
+      },
+      {
+         "event_guid" : "24b58c74-2bba-412e-84ac-c206f714f0b7",
+         "weight" : 62,
+         "event_id" : 7363
+      },
+      {
+         "event_guid" : "e1b56229-fb1e-480c-9691-c137ec11ee51",
+         "weight" : 94,
+         "event_id" : 7368
+      },
+      {
+         "event_guid" : "074a5ea0-fd00-4529-912c-c986a8856f6b",
+         "event_id" : 7371,
+         "weight" : 83
+      },
+      {
+         "event_id" : 7373,
+         "weight" : 12,
+         "event_guid" : "045e8a2c-63d0-4335-886e-cbd6323afc73"
+      },
+      {
+         "event_id" : 7381,
+         "weight" : 136,
+         "event_guid" : "e988c76b-3a47-46de-a2c7-77c49a5e731b"
+      },
+      {
+         "event_id" : 7383,
+         "weight" : 52,
+         "event_guid" : "acc3dd01-bec3-444f-80c1-5dd37f522aa4"
+      },
+      {
+         "weight" : 65,
+         "event_id" : 7384,
+         "event_guid" : "8e743367-04a1-4232-ab03-a54fc210e548"
+      },
+      {
+         "event_guid" : "ed4b6c75-14f4-49fe-a11e-3762bd6b54e3",
+         "weight" : 181,
+         "event_id" : 7389
+      },
+      {
+         "event_id" : 7397,
+         "weight" : 50,
+         "event_guid" : "f650773d-d9df-4050-814c-a9505c439b30"
+      },
+      {
+         "event_id" : 7417,
+         "weight" : 64,
+         "event_guid" : "84c25f65-998a-43a8-bd32-2fe91fe42ff7"
+      },
+      {
+         "event_id" : 7437,
+         "weight" : 86,
+         "event_guid" : "49498e74-3b88-599b-9fb5-f28663b3c8bc"
+      },
+      {
+         "weight" : 149,
+         "event_id" : 7453,
+         "event_guid" : "ffa61ddc-7493-5c90-8976-ca25cf368bd0"
+      },
+      {
+         "weight" : 56,
+         "event_id" : 7458,
+         "event_guid" : "f5ef88a8-0fb3-4310-bb04-358db302a13b"
+      },
+      {
+         "event_id" : 7459,
+         "weight" : 123,
+         "event_guid" : "4263620e-f36f-4408-b702-01481e0efbd7"
+      }
+   ],
+   "subtitle" : "die Evolution des Chaos Communication Camps",
+   "poster_url" : "https://static.media.ccc.de/media/conferences/camp2019/10413-hd_preview.jpg",
+   "original_language" : "deu",
+   "length" : 5219,
+   "title" : "20 Jahre Camp",
+   "description" : "Aus der Gruppe, die 1999 das erste Camp organisiert hat, reden Tim, Andre und Markus über die Verschmelzung von Open-Air- und Hacker-kultur.\n\nTim hat gemeinsam mit den Pyonen – Andre und Markus – das erste Camp 1999 ins Rollen gebracht. Gemeinsam blicken sie zurück auf die Entstehungsgeschichte des Camps und die besonderen Herausforderungen bei der Planung und Logistik des Events.\n\nDas erste Camp auf einer Pferdewiese in Altlandsberg war für den CCC ein Kraftakt. Aus der Vorlage der niederländischen Camps 1993 (Hacking at the End of the Universe, HEU) und 1997 (Hacking In Progress, HIP) wurde versucht, eine Veranstaltung zu kreieren, die sowohl den Geist des Clubs als auch den schon damals starken Einfluss der damaligen Techno-Open-Air-Szene kombiniert.\n\nBestärkt durch den erfolgreichen Umzug des Chaos Communication Congress Ende 1998 nach Berlin nahm der Club die Herausforderungen an und entwickelte mit den Pyonen eine fruchtbare Kooperation, bei der jede Gruppe Ihre Stärken ausspielen konnte. Der Club kümmerte sich um Netz und Inhalte, die Pyonen stellten sicher, dass die Produktion der Veranstaltung in sicheren Bahnen verlief.\n\nAm Ende gelang es dem ersten Camp, die Grundlage zu legen für die Veranstaltung, die es heute ist: ein Ort der Freiheit und Kreativität, der dem Spaß am Gerät, der Ästhetik und der Kommunikation den notwendigen Raum bietet.",
+   "frontend_link" : "https://media.ccc.de/v/Camp2019-10413-20_jahre_camp",
+   "tags" : [
+      "camp19",
+      "10413",
+      "CCC"
+   ],
+   "updated_at" : "2019-11-07T23:45:06.256+01:00"
+}

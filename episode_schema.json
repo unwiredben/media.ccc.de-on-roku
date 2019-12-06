@@ -1,0 +1,32 @@
+for each event in events:
+   fetch and parse event url
+   for each recording in event.recordings
+      if rec.language == "eng"
+        append new episode:
+         {
+            "id": evt.guid,
+            "title": evt.title,
+            "episodeNumber": searchNumeric(evt.tags),
+            "releaseDate": evt.date,
+            "thumbnail": evt.poster_url,
+            "shortDescription": evt.subtitle || truncateTo200(evt.description),
+            "longDescription": truncateTo500(evt.description),
+            "content": {
+               "dateAdded": rec.updated_at,
+               "videos": [ {
+                  "url": rec.recording_url,
+                  "quality": "HD",
+                  "videoType": "MP4"
+               } ],
+               "duration": rec.length,
+               "language": "en"
+            },
+            "credits": [
+                // for each person in evt.persons
+                {
+                  "name": person,
+                  "role": "actor"
+                }
+            ]
+        }
+        stop processing recordings
