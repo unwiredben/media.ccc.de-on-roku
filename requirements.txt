@@ -1,0 +1,6 @@
+# requirements.txt for feedgen.py
+
+pyyaml
+cachecontrol
+cachecontrol[file_cache]
+langcodes
