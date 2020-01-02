@@ -4,3 +4,4 @@ pyyaml
 cachecontrol
 cachecontrol[file_cache]
 langcodes
+lockfile

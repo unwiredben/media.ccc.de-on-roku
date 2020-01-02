@@ -25,6 +25,20 @@ feedHeader:
 # list of conference API endpoints to pull for this feed. Each one will be
 # expresses as a separate "TV Series" for the Roku backend.
 conferences:
+  - url:  conferences/36c3
+    tags: [ 'congress', '2019', '36C3' ]
+    thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/36c3_1920x1080_logo.jpg'
+    releaseDate: '2019-12-27'
+    shortDescription: >
+      The 36th Chaos Communication Congress (36C3) took place in Leipzig,
+      27-30.12.2019, and was the 2019 edition of the annual four-day
+      conference on technology, society and utopia organised by the Chaos
+      Computer Club (CCC) and volunteers. The Congress offers lectures and
+      workshops and various events on a multitude of topics including (but not
+      limited to) information technology and generally a critical-creative
+      attitude towards technology and the discussion about the effects of
+      technological advances on society. 
+
   - url:  conferences/35c3
     tags: [ 'congress', '2018', '35C3' ]
     thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/35c3_1920x1080_logo.jpg'
