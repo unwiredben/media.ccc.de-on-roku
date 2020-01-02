@@ -32,6 +32,7 @@
 # for options and documentation.
 
 import sys
+import re
 import yaml
 import json
 from datetime import datetime, timezone
@@ -49,21 +50,30 @@ def read_config(config_filename):
 def process_recording(recording):
 	output = {
 		"dateAdded": recording["updated_at"],
-		"videos": {
-			"url": recording["recording_url"],
-			"quality": "HD",
-			"videoType": "MP4"
-		},
+		"videos": [
+			{
+				"url": recording["recording_url"],
+				"quality": "HD",
+				"videoType": "MP4"
+			}
+		],
 		"duration": recording["length"],
 		"language": langcodes.standardize_tag(recording["language"])
 	}
 	return output
 
+slug_eventid_parser = re.compile(r"\w+-(\d+)-.*")
+
 def process_event(event):
+	episodeNumber = 0;
+	match = slug_eventid_parser.match(event["slug"])
+	if (match):
+		episodeNumber = int(match.group(1))
+
 	output = {
 		"id": event["guid"],
 		"title": event["title"],
-        "episodeNumber": event["tags"][1],
+        "episodeNumber": episodeNumber,
         "releaseDate": event["release_date"],
         "credits": [],
         "content": [],
