@@ -76,14 +76,14 @@ def process_event(event):
         "episodeNumber": episodeNumber,
         "releaseDate": event["release_date"],
         "credits": [],
-        "content": [],
+        "content": {},
         "thumbnail": event["poster_url"],
         "shortDescription": textwrap.shorten(
-        	event["subtitle"] or event["description"],
+        	event["subtitle"] or event["description"] or event["title"],
         	width=200,
         	placeholder="..."),
         "longDescription": textwrap.shorten(
-        	event["description"],
+        	event["description"] or event["title"],
         	width=500,
         	placeholder="...")
 	}
@@ -102,7 +102,7 @@ def process_event(event):
 	for recording in event_data["recordings"]:
 		if recording["language"] in languages \
 		   and recording["folder"] == "h264-hd":
-			output["content"].append(process_recording(recording))
+			output["content"] = process_recording(recording)
 			break
 
 	return output
