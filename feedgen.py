@@ -65,7 +65,7 @@ def process_recording(recording):
 slug_eventid_parser = re.compile(r"\w+-(\d+)-.*")
 
 def process_event(event):
-	episodeNumber = 0;
+	episodeNumber = 0
 	match = slug_eventid_parser.match(event["slug"])
 	if (match):
 		episodeNumber = int(match.group(1))
@@ -104,6 +104,10 @@ def process_event(event):
 		   and recording["folder"] == "h264-hd":
 			output["content"] = process_recording(recording)
 			break
+	
+	# don't allow items with no content
+	if output["content"] == {}:
+		raise RuntimeError
 
 	return output
 
@@ -126,7 +130,10 @@ def process_conference(conf, languages, genres):
 
 	for event in conf_data["events"]:
 		if event["original_language"] in languages:
-			output["episodes"].append(process_event(event))
+			try:
+				output["episodes"].append(process_event(event))
+			except RuntimeError:
+				print("Error: no content", file=sys.stderr)
 
 	return output
 
