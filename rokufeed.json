@@ -4,7 +4,7 @@
   "categories": [
     {
       "name": "Featured",
-      "query": 2020,
+      "query": "2020",
       "order": "most_recent"
     },
     {
