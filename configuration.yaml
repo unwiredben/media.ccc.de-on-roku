@@ -26,7 +26,7 @@ feedHeader:
 # expresses as a separate "TV Series" for the Roku backend.
 conferences:
   - url:  conferences/rc3
-    tags: [ 'conference', '2020', 'RC3' ]
+    tags: [ 'congress', 'conference', '2020', 'RC3' ]
     thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/rc3_1920x1080_logo.jpg'
     releaseDate: '2020-12-27'
     shortDescription: >
