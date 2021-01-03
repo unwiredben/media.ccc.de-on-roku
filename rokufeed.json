@@ -3,6 +3,11 @@
   "language": "en",
   "categories": [
     {
+      "name": "Remote Chaos Experience",
+      "query": "RC3",
+      "order": "most_recent"
+    },
+    {
       "name": "Chaos Computer Congresses",
       "query": "congress",
       "order": "most_recent"
@@ -12,12 +17,11 @@
   "series": [
     {
       "id": "conferences/rc3",
-      "title": "Remote Chaos Experience",
+      "title": "RC3: Remote Chaos Experience",
       "genres": [
         "educational"
       ],
       "tags": [
-        "congress",
         "conference",
         "2020",
         "RC3"
