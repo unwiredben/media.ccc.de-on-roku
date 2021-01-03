@@ -17,8 +17,14 @@ feedHeader:
   providerName: media.ccc.de
   language: en
   categories:
+    - name: Featured
+      query: 2020
+      order: most_recent
     - name: Chaos Computer Congresses
       query: congress
+      order: most_recent
+    - name: Conferences
+      query: conference
       order: most_recent
 
 
@@ -26,13 +32,29 @@ feedHeader:
 # expresses as a separate "TV Series" for the Roku backend.
 conferences:
   - url:  conferences/rc3
-    tags: [ 'congress', 'conference', '2020', 'RC3' ]
+    tags: [ 'conference', '2020', 'RC3' ]
     thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/rc3_1920x1080_logo.jpg'
     releaseDate: '2020-12-27'
     shortDescription: >
       The first official remote Chaos Experience 2020 is a four-day online-only
       conference on technology, society and utopia organised by the
       Chaos Computer Club (CCC) and its community.
+
+  - url: conferences/pw20
+    tags: [ 'conference', '2020', 'PW20' ]
+    thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/pw20_1920x1080_logo.jpg'
+    releaseDate: '2020-10-26'
+    shortDescription: >
+      Breaking off the old always means a new beginning. Let's think of a new society,
+      a new system together. This was an online conference held October 26th
+      through November 1st, 2020 and presented by the Chaos Computer Club Vienna.
+
+  - url: conferences/arch-conf-2020
+    tags: [ 'conference', '2020', 'arch-conf-2020', 'linux' ]
+    thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/archlinux2020_1920x1080_logo.jpg'
+    releaseDate: '2020-10-10'
+    shortDescription: >
+      2020 online conference for the Arch Linux community.
 
   - url:  conferences/36c3
     tags: [ 'congress', '2019', '36C3' ]
@@ -79,7 +101,7 @@ conferences:
       lectures and workshops and various events on a multitude of topics
       including (but not limited to) information technology and generally
       a critical-creative attitude towards technology and the discussion
-      about the effects of technological advances on society. 
+      about the effects of technological advances on society.
 
   # - conferences/32c3
   # - conferences/31c3

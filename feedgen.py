@@ -117,6 +117,11 @@ def process_conference(conf, languages, genres):
 	r.raise_for_status()
 	conf_data = r.json()
 
+	season = {
+		"seasonNumber": 1,
+		"episodes": []
+	}
+
 	output = { 
 		"id":               conf_data["slug"],
 		"title":            conf_data["title"],
@@ -125,13 +130,16 @@ def process_conference(conf, languages, genres):
 		"thumbnail":        conf["thumbnail"],
 		"releaseDate":      conf["releaseDate"],
 		"shortDescription": conf["shortDescription"],
-		"episodes":  []
+		"seasons": [ {
+			"seasonNumber": 1,
+			"episodes":     []
+		} ]        
 	}
 
 	for event in conf_data["events"]:
 		if event["original_language"] in languages:
 			try:
-				output["episodes"].append(process_event(event))
+				output["seasons"][0]["episodes"].append(process_event(event))
 			except RuntimeError:
 				print("Error: no content", file=sys.stderr)
 
