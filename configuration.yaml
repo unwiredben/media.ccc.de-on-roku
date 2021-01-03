@@ -25,6 +25,15 @@ feedHeader:
 # list of conference API endpoints to pull for this feed. Each one will be
 # expresses as a separate "TV Series" for the Roku backend.
 conferences:
+  - url:  conferences/rc3
+    tags: [ 'conference', '2020', 'RC3' ]
+    thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/rc3_1920x1080_logo.jpg'
+    releaseDate: '2020-12-27'
+    shortDescription: >
+      The first official remote Chaos Experience 2020 is a four-day online-only
+      conference on technology, society and utopia organised by the
+      Chaos Computer Club (CCC) and its community.
+
   - url:  conferences/36c3
     tags: [ 'congress', '2019', '36C3' ]
     thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/36c3_1920x1080_logo.jpg'
