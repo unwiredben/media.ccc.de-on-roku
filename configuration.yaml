@@ -31,13 +31,22 @@ feedHeader:
 # list of conference API endpoints to pull for this feed. Each one will be
 # expresses as a separate "TV Series" for the Roku backend.
 conferences:
+  - url:  conferences/rc3-2021
+    tags: [ 'conference', '2021', 'RC3-2021' ]
+    thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/rc3_2021_1920x1080_logo.jpg'
+    releaseDate: '2021-12-27'
+    shortDescription: >
+      The second official remote Chaos Experience 2021 is a four-day online-only
+      conference on technology, society and utopia organized by the
+      Chaos Computer Club (CCC) and its community.
+
   - url:  conferences/rc3
     tags: [ 'conference', '2020', 'RC3' ]
     thumbnail: 'https://www.combee.net/media.ccc.de-on-roku/img/rc3_1920x1080_logo.jpg'
     releaseDate: '2020-12-27'
     shortDescription: >
       The first official remote Chaos Experience 2020 is a four-day online-only
-      conference on technology, society and utopia organised by the
+      conference on technology, society and utopia organized by the
       Chaos Computer Club (CCC) and its community.
 
   - url: conferences/pw20
@@ -63,7 +72,7 @@ conferences:
     shortDescription: >
       The 36th Chaos Communication Congress (36C3) took place in Leipzig,
       27-30.12.2019, and was the 2019 edition of the annual four-day
-      conference on technology, society and utopia organised by the Chaos
+      conference on technology, society and utopia organized by the Chaos
       Computer Club (CCC) and volunteers. The Congress offers lectures and
       workshops and various events on a multitude of topics including (but not
       limited to) information technology and generally a critical-creative
