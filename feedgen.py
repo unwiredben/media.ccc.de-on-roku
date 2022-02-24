@@ -31,6 +31,7 @@
 # input is specified in config.yaml file.  See the version in the repo
 # for options and documentation.
 
+from importlib import invalidate_caches
 import sys
 import re
 import yaml
@@ -42,6 +43,13 @@ from cachecontrol.caches.file_cache import FileCache
 import urllib
 import langcodes
 import textwrap
+
+def nonempty_string(s):
+	if isinstance(s, str):
+		out = s.strip()
+		if len(out) != 0:
+			return out
+	return None
 
 def read_config(config_filename):
 	stream = open(config_filename, 'r')
@@ -79,11 +87,11 @@ def process_event(event):
         "content": {},
         "thumbnail": event["poster_url"],
         "shortDescription": textwrap.shorten(
-        	event["subtitle"] or event["description"] or event["title"] or "No description provided",
+        	nonempty_string(event["subtitle"]) or nonempty_string(event["description"]) or event["title"],
         	width=200,
         	placeholder="..."),
         "longDescription": textwrap.shorten(
-        	event["description"] or event["title"] or "No description provided",
+        	nonempty_string(event["description"]) or event["title"],
         	width=500,
         	placeholder="...")
 	}

@@ -18,7 +18,7 @@
       "order": "most_recent"
     }
   ],
-  "lastUpdated": "2022-02-24T21:01:32.951302+00:00",
+  "lastUpdated": "2022-02-24T21:38:59.167450+00:00",
   "series": [
     {
       "id": "conferences/rc3/2021",
@@ -91,6 +91,60 @@
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/303-ad59d7d0-7116-524f-82c3-88a26c1edcda_preview.jpg",
               "shortDescription": "Math and hacking - two separate worlds at odds or secret lovers? Lovers, of course! How so, you might ask - math is boring and useless! (And hacking is great fun, of course.) We'll try to change...",
               "longDescription": "Math and hacking - two separate worlds at odds or secret lovers? Lovers, of course! How so, you might ask - math is boring and useless! (And hacking is great fun, of course.) We'll try to change your mind! Be honest: When you're hacking, aren't you really building a world inside a system that operates according to fixed, pedantic, boring rules? (And when the system does not operate according to those rules, do you not get annoyed?) That's secretly a form of applied mathematics! Now, math has..."
+            },
+            {
+              "id": "491f138d-f7a3-5b01-82dd-c3829cf0fae5",
+              "title": "Formally Verified and Publicly Verifiable E-counting For Complex Voting Schemes",
+              "episodeNumber": 2021,
+              "releaseDate": "2022-01-04T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Rajeev Gore"
+                }
+              ],
+              "content": {
+                "dateAdded": "2022-01-04T21:43:01.604+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-import-304-eng-Formally_Verified_and_Publicly_Verifiable_E-counting_For_Complex_Voting_Schemes.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 4177,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/304-491f138d-f7a3-5b01-82dd-c3829cf0fae5_preview.jpg",
+              "shortDescription": "This is a talk about how we can generate single transferable votes counting code from a logical specification automatically using advanced computer aided verification methods. It is based upon a...",
+              "longDescription": "This is a talk about how we can generate single transferable votes counting code from a logical specification automatically using advanced computer aided verification methods. It is based upon a PhD dissertation but I think I made it non-technical. I will first explain single transferable vote counting and the parlous state of computer-counting code implemented by various Election Commissions from around Australia. I will then explain how we used Coq to specify a \"vanilla\" version of single..."
+            },
+            {
+              "id": "28899e7e-abec-54c2-b8d2-ff315c6a76a6",
+              "title": "A wireless comunity mesh network in Appennino",
+              "episodeNumber": 2021,
+              "releaseDate": "2022-01-11T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Andrea Zappa"
+                }
+              ],
+              "content": {
+                "dateAdded": "2022-01-11T01:22:47.385+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-import-398-eng-A_wireless_comunity_mesh_network_in_Appennino_hd.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2683,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/398-28899e7e-abec-54c2-b8d2-ff315c6a76a6_preview.jpg",
+              "shortDescription": "Explanation about the slow grow, the ideas of community and the technical tools of a small Wireless Mesh Network on the Appennino's mountains near Bologna in Italy. We shared connections and...",
+              "longDescription": "Explanation about the slow grow, the ideas of community and the technical tools of a small Wireless Mesh Network on the Appennino's mountains near Bologna in Italy. We shared connections and knowledge between 50 people, on 3 valleys. This is our website: https://antennine.noblogs.org Our comunity share the principles of antifascist, antisexism, anticapitalism and antiracism. In our s ecosystem there are different organizations and during the talk I'll try to explain some of the activities. We..."
             },
             {
               "id": "c0df537d-b592-5a20-83a8-eb4f1955c0b1",
@@ -371,33 +425,6 @@
               "longDescription": "Have you heard that every person in China receives a numerical score, rating their social trustworthiness? Or that people in Asia have their movements tracked 24/7, which was an important part of every Asian country's anti-Covid campaign? Congratulations, you have been duped into believing tech dystopia fairy tales about Asia, that bear at most a passing resemblance to reality. What are they, where do they come from, why are they dangerous - and what do they say about Western tech discourse?..."
             },
             {
-              "id": "28899e7e-abec-54c2-b8d2-ff315c6a76a6",
-              "title": "A wireless comunity mesh network in Appennino",
-              "episodeNumber": 2021,
-              "releaseDate": "2022-01-11T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Andrea Zappa"
-                }
-              ],
-              "content": {
-                "dateAdded": "2022-01-11T01:22:47.385+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-import-398-eng-A_wireless_comunity_mesh_network_in_Appennino_hd.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2683,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/398-28899e7e-abec-54c2-b8d2-ff315c6a76a6_preview.jpg",
-              "shortDescription": "Explanation about the slow grow, the ideas of community and the technical tools of a small Wireless Mesh Network on the Appennino's mountains near Bologna in Italy. We shared connections and...",
-              "longDescription": "Explanation about the slow grow, the ideas of community and the technical tools of a small Wireless Mesh Network on the Appennino's mountains near Bologna in Italy. We shared connections and knowledge between 50 people, on 3 valleys. This is our website: https://antennine.noblogs.org Our comunity share the principles of antifascist, antisexism, anticapitalism and antiracism. In our s ecosystem there are different organizations and during the talk I'll try to explain some of the activities. We..."
-            },
-            {
               "id": "b5abc370-e6d4-4edf-a99e-698856659334",
               "title": "Verkehrsnachrichten 2.1",
               "episodeNumber": 2021,
@@ -514,8 +541,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/25-046726da-c92a-4408-a4a1-97d94af73eda_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "c3News Show 1 \u2013 Day 2",
+              "longDescription": "c3News Show 1 \u2013 Day 2"
             },
             {
               "id": "d0087e43-eba9-44d2-99b1-56516cff30a1",
@@ -563,8 +590,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/29-933059e9-a6f2-4568-8510-2793dd102550_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "c3News Show 1 \u2013 Day 3",
+              "longDescription": "c3News Show 1 \u2013 Day 3"
             },
             {
               "id": "b1595c59-f7db-511b-8a89-a518d78fb0f1",
@@ -617,8 +644,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/27-e6db9147-194d-4fa5-9da7-74c5e7abf58e_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "c3News Show 3 \u2013 Day 2",
+              "longDescription": "c3News Show 3 \u2013 Day 2"
             },
             {
               "id": "7c47ea27-1f57-4a6a-961c-010edb3c3c2b",
@@ -644,8 +671,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/21-7c47ea27-1f57-4a6a-961c-010edb3c3c2b_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "c3News Show 1 \u2013 Day 1",
+              "longDescription": "c3News Show 1 \u2013 Day 1"
             },
             {
               "id": "5fd0c013-e3bd-531a-a938-a178f5cf7513",
@@ -783,8 +810,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/23-208bf4a1-90fd-4c54-8f81-e54e6d6a0b16_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "c3News Show 3 \u2013 Day 1",
+              "longDescription": "c3News Show 3 \u2013 Day 1"
             },
             {
               "id": "861150d5-5c64-533a-8ae2-5ae030163f4c",
@@ -891,8 +918,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/28-5e220727-7d67-4fd0-91c6-32675fe29a49_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "Morning Show \u2013 Day 3",
+              "longDescription": "Morning Show \u2013 Day 3"
             },
             {
               "id": "9da8095e-72f0-4c48-9fe2-39083b16fdab",
@@ -1080,8 +1107,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/32-78f70870-9935-4186-b4c2-43a1ed596ab0_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "Morning Show \u2013 Day 4",
+              "longDescription": "Morning Show \u2013 Day 4"
             },
             {
               "id": "3e8b3849-1792-4cfa-b7de-18ce3026b67e",
@@ -1215,8 +1242,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/26-ebf6557a-5705-4002-83fc-8f42d74c6151_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "c3News Show 2 \u2013 Day 2",
+              "longDescription": "c3News Show 2 \u2013 Day 2"
             },
             {
               "id": "cf945289-0f3a-4e73-bb6f-1b8961acda67",
@@ -1296,8 +1323,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/22-77e5bd49-eb9f-4687-acb2-a53917e3cdad_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "c3News Show 2 \u2013 Day 1",
+              "longDescription": "c3News Show 2 \u2013 Day 1"
             },
             {
               "id": "53c7824b-1acd-4237-97c7-52f43318ec1b",
@@ -1462,8 +1489,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/24-bfed0524-c4d6-4dfc-b337-b5b0ba0f2668_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "Morning Show \u2013 Day 2",
+              "longDescription": "Morning Show \u2013 Day 2"
             },
             {
               "id": "facd98da-45a1-5fee-94e6-ccb2523fd6cd",
@@ -1655,8 +1682,8 @@
                 "language": "en"
               },
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/30-0448eb2b-807b-4eb0-941b-2cf6f713b0bf_preview.jpg",
-              "shortDescription": "",
-              "longDescription": ""
+              "shortDescription": "c3News Show 2 \u2013 Day 3",
+              "longDescription": "c3News Show 2 \u2013 Day 3"
             },
             {
               "id": "8055f8ea-088d-525c-beed-e3a684238acf",
@@ -1684,33 +1711,6 @@
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/339-8055f8ea-088d-525c-beed-e3a684238acf_preview.jpg",
               "shortDescription": "We want to revive the Open Hardware Meetup and make it a regular event again starting with this year's Congress. In the future we want to present great Open Hardware projects and give a space for...",
               "longDescription": "We want to revive the Open Hardware Meetup and make it a regular event again starting with this year's Congress. In the future we want to present great Open Hardware projects and give a space for exchange - alternating in the world of bits and atoms. Join us, present what you're working on and let's get to know each other! For this first session we discuss topics such as: + How do we interface open hardware dev + community work with questions of sustainability / climate change mitigation? +..."
-            },
-            {
-              "id": "491f138d-f7a3-5b01-82dd-c3829cf0fae5",
-              "title": "Formally Verified and Publicly Verifiable E-counting For Complex Voting Schemes",
-              "episodeNumber": 2021,
-              "releaseDate": "2022-01-04T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Rajeev Gore"
-                }
-              ],
-              "content": {
-                "dateAdded": "2022-01-04T21:43:01.604+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-import-304-eng-Formally_Verified_and_Publicly_Verifiable_E-counting_For_Complex_Voting_Schemes.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 4177,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/304-491f138d-f7a3-5b01-82dd-c3829cf0fae5_preview.jpg",
-              "shortDescription": "This is a talk about how we can generate single transferable votes counting code from a logical specification automatically using advanced computer aided verification methods. It is based upon a...",
-              "longDescription": "This is a talk about how we can generate single transferable votes counting code from a logical specification automatically using advanced computer aided verification methods. It is based upon a PhD dissertation but I think I made it non-technical. I will first explain single transferable vote counting and the parlous state of computer-counting code implemented by various Election Commissions from around Australia. I will then explain how we used Coq to specify a \"vanilla\" version of single..."
             },
             {
               "id": "e81da91c-d8d3-5509-969d-480bb19d3a87",
@@ -2095,6 +2095,33 @@
           "seasonNumber": 1,
           "episodes": [
             {
+              "id": "5b59a1ed-71be-447d-8f71-509d3dcf9fc4",
+              "title": "Building Blocks of Decentralization",
+              "episodeNumber": 11400,
+              "releaseDate": "2021-01-07T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Will Scott"
+                }
+              ],
+              "content": {
+                "dateAdded": "2021-01-07T18:31:12.366+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-csh-11400-eng-Building_Blocks_of_Decentralization.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2544,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/11400-5b59a1ed-71be-447d-8f71-509d3dcf9fc4_preview.jpg",
+              "shortDescription": "Much of our time online continues to be spent in centralized silos. A wide range of projects continue to chip away at building decentralized alternatives, but it's fair to say that decentralized...",
+              "longDescription": "Much of our time online continues to be spent in centralized silos. A wide range of projects continue to chip away at building decentralized alternatives, but it's fair to say that decentralized platforms continue to play catch up. This talk looks at a few of the key problems underlying many schemes for decentralization, and reflect on how different projects are tackling them and what remains challenging. In particular decentralized platforms grapple not only with how to efficiently scale,..."
+            },
+            {
               "id": "e2fb34ed-03f7-5fe6-ac81-108b639a2227",
               "title": "The Hologram: Peer to Peer Health for a Post-Pandemic Future",
               "episodeNumber": 0,
@@ -2147,6 +2174,33 @@
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/11568-ea519362-d698-42d8-b098-5e84d661c306_preview.jpg",
               "shortDescription": "Surprise from The one and only Yes Men",
               "longDescription": "Surprise from The one and only Yes Men"
+            },
+            {
+              "id": "1fa13142-e190-5d77-aade-ea569f0853dc",
+              "title": "The Elephant In The Background: Empowering Users Against Browser Fingerprinting",
+              "episodeNumber": 113142,
+              "releaseDate": "2020-12-28T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Julian Fietkau"
+                }
+              ],
+              "content": {
+                "dateAdded": "2020-12-28T21:12:34.051+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-cwtv-43-eng-The_Elephant_In_The_Background_Empowering_Users_Against_Browser_Fingerprinting_hd.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2744,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/43-1fa13142-e190-5d77-aade-ea569f0853dc_preview.jpg",
+              "shortDescription": "This talk will be about FPMON, a browser extension that shows you where, when and which browser fingerprinting method is applied against you. You can use it to test your favorite websites and check...",
+              "longDescription": "This talk will be about FPMON, a browser extension that shows you where, when and which browser fingerprinting method is applied against you. You can use it to test your favorite websites and check your own services for 3rd-party fingerprinting scripts. It can also be used to test various browser privacy tools. Tracking users is a ubiquitous practice in the web today. User activity is recorded on a large scale and analyzed by various actors to create personalized products, forecast future..."
             },
             {
               "id": "2f2853cc-4a62-52e3-b1a6-9fcb414a77ed",
@@ -2735,33 +2789,6 @@
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/271-5cfddae2-e699-5eb7-af5f-7230bae35bd4_preview.jpg",
               "shortDescription": "grassrootsmovements transforming politics a dialogue between Xavi Ferrer from Fearless Cities / Barcelona en Comu and Lu Yen Roloff, Einfach Machen!",
               "longDescription": "grassrootsmovements transforming politics a dialogue between Xavi Ferrer from Fearless Cities / Barcelona en Comu and Lu Yen Roloff, Einfach Machen!"
-            },
-            {
-              "id": "1fa13142-e190-5d77-aade-ea569f0853dc",
-              "title": "The Elephant In The Background: Empowering Users Against Browser Fingerprinting",
-              "episodeNumber": 113142,
-              "releaseDate": "2020-12-28T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Julian Fietkau"
-                }
-              ],
-              "content": {
-                "dateAdded": "2020-12-28T21:12:34.051+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-cwtv-43-eng-The_Elephant_In_The_Background_Empowering_Users_Against_Browser_Fingerprinting_hd.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2744,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/43-1fa13142-e190-5d77-aade-ea569f0853dc_preview.jpg",
-              "shortDescription": "This talk will be about FPMON, a browser extension that shows you where, when and which browser fingerprinting method is applied against you. You can use it to test your favorite websites and check...",
-              "longDescription": "This talk will be about FPMON, a browser extension that shows you where, when and which browser fingerprinting method is applied against you. You can use it to test your favorite websites and check your own services for 3rd-party fingerprinting scripts. It can also be used to test various browser privacy tools. Tracking users is a ubiquitous practice in the web today. User activity is recorded on a large scale and analyzed by various actors to create personalized products, forecast future..."
             },
             {
               "id": "f22e45ce-b6f0-5921-81e2-f409b7a42938",
@@ -3411,33 +3438,6 @@
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/159-15a84128-2baf-503d-88cc-6a479244aa6f_preview.jpg",
               "shortDescription": "Hint: the podcast will be in portugese. Ogunh\u00ea, podcast about the contributions of black scientists to the world: the goal is to rescue the history of scientists and give visibility to the science...",
               "longDescription": "Hint: the podcast will be in portugese. Ogunh\u00ea, podcast about the contributions of black scientists to the world: the goal is to rescue the history of scientists and give visibility to the science they make, so that black people feel more represented and also seeking to show how the achievements have helped society in that we live. The podcast on spotify was heard in 22 different countries. The idea is to talk about the process behind the episodes and the research of black scientists. Link..."
-            },
-            {
-              "id": "5b59a1ed-71be-447d-8f71-509d3dcf9fc4",
-              "title": "Building Blocks of Decentralization",
-              "episodeNumber": 11400,
-              "releaseDate": "2021-01-07T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Will Scott"
-                }
-              ],
-              "content": {
-                "dateAdded": "2021-01-07T18:31:12.366+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-csh-11400-eng-Building_Blocks_of_Decentralization.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2544,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/11400-5b59a1ed-71be-447d-8f71-509d3dcf9fc4_preview.jpg",
-              "shortDescription": "Much of our time online continues to be spent in centralized silos. A wide range of projects continue to chip away at building decentralized alternatives, but it's fair to say that decentralized...",
-              "longDescription": "Much of our time online continues to be spent in centralized silos. A wide range of projects continue to chip away at building decentralized alternatives, but it's fair to say that decentralized platforms continue to play catch up. This talk looks at a few of the key problems underlying many schemes for decentralization, and reflect on how different projects are tackling them and what remains challenging. In particular decentralized platforms grapple not only with how to efficiently scale,..."
             },
             {
               "id": "94ead6ee-f201-410c-b777-e2f77dd9d014",
@@ -6447,6 +6447,33 @@
           "seasonNumber": 1,
           "episodes": [
             {
+              "id": "f409211b-cff9-55b4-b226-31d1acf03e5b",
+              "title": "GamerOS: An Arch Linux based gaming OS",
+              "episodeNumber": 0,
+              "releaseDate": "2020-11-01T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Alesh Slovak"
+                }
+              ],
+              "content": {
+                "dateAdded": "2020-11-01T23:54:40.938+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/archconf/2020/h264-hd/arch-conf-2020-6295-eng-GamerOS_An_Arch_Linux_based_gaming_OS_hd.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2686,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/conferences/archconf/2020/6295-hd_preview.jpg",
+              "shortDescription": "An overview of GamerOS, an Arch Linux based distro that provides an out of the box couch gaming experience. Find out what GamerOS is, how it came to be, and what makes it unique.",
+              "longDescription": "An overview of GamerOS, an Arch Linux based distro that provides an out of the box couch gaming experience. Find out what GamerOS is, how it came to be, and what makes it unique."
+            },
+            {
               "id": "8a9dcc49-ee05-5c33-a843-c5081a4d74b8",
               "title": "Arch Linux Team Q&A",
               "episodeNumber": 0,
@@ -6553,33 +6580,6 @@
               "thumbnail": "https://static.media.ccc.de/media/conferences/archconf/2020/6381-hd_preview.jpg",
               "shortDescription": "The number of services Arch provides has steadily grown over the years. How many services and servers are there, and how does it even all fit together? Also, what do we have planned for the future...",
               "longDescription": "The number of services Arch provides has steadily grown over the years. How many services and servers are there, and how does it even all fit together? Also, what do we have planned for the future and how can you help? Find out in this talk! Arch Linux is a complex open-source project with many moving parts, quite a few pieces of infrastructure, and many people involved. Arch uses some modern DevOps tools like Ansible and Terraform. All of our infrastructure is entirely in the open (except..."
-            },
-            {
-              "id": "f409211b-cff9-55b4-b226-31d1acf03e5b",
-              "title": "GamerOS: An Arch Linux based gaming OS",
-              "episodeNumber": 0,
-              "releaseDate": "2020-11-01T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Alesh Slovak"
-                }
-              ],
-              "content": {
-                "dateAdded": "2020-11-01T23:54:40.938+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/archconf/2020/h264-hd/arch-conf-2020-6295-eng-GamerOS_An_Arch_Linux_based_gaming_OS_hd.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2686,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/conferences/archconf/2020/6295-hd_preview.jpg",
-              "shortDescription": "An overview of GamerOS, an Arch Linux based distro that provides an out of the box couch gaming experience. Find out what GamerOS is, how it came to be, and what makes it unique.",
-              "longDescription": "An overview of GamerOS, an Arch Linux based distro that provides an out of the box couch gaming experience. Find out what GamerOS is, how it came to be, and what makes it unique."
             },
             {
               "id": "a87aeaed-e3aa-564c-b6fb-35204f1e27ac",
@@ -6959,6 +6959,33 @@
           "seasonNumber": 1,
           "episodes": [
             {
+              "id": "bc077e28-eeed-4852-a2b9-f5b4d8af714e",
+              "title": "(Post-Quantum) Isogeny Cryptography",
+              "episodeNumber": 10543,
+              "releaseDate": "2020-01-04T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "naehrwert"
+                }
+              ],
+              "content": {
+                "dateAdded": "2019-12-28T03:15:49.046+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-10543-eng-Post-Quantum_Isogeny_Cryptography.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 3142,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2019/10543-hd_preview.jpg",
+              "shortDescription": "There are countless post-quantum buzzwords to list: lattices, codes, multivariate polynomial systems, supersingular elliptic curve isogenies. We cannot possibly explain in one hour what each of...",
+              "longDescription": "There are countless post-quantum buzzwords to list: lattices, codes, multivariate polynomial systems, supersingular elliptic curve isogenies. We cannot possibly explain in one hour what each of those mean, but we will do our best to give the audience an idea about why elliptic curves and isogenies are awesome for building strong cryptosystems. It is the year 2019 and apparently quantum supremacy is finally upon us [1,2]. Surely, classical cryptography is broken? How are we going to protect..."
+            },
+            {
               "id": "fecad3ac-349d-4363-b9c6-2516b77fdfb2",
               "title": "Leaving legacy behind",
               "episodeNumber": 11172,
@@ -7235,33 +7262,6 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2019/10942-hd_preview.jpg",
               "shortDescription": "The AMD Platform Security Processor (PSP) is a dedicated ARM CPU inside your AMD processor and runs undocumented, proprietary firmware provided by AMD. It is a processor inside your processor that...",
               "longDescription": "The AMD Platform Security Processor (PSP) is a dedicated ARM CPU inside your AMD processor and runs undocumented, proprietary firmware provided by AMD. It is a processor inside your processor that you don't control. It is essential for system startup. In fact, in runs before the main processor is even started and is responsible for bootstrapping all other components. This talk presents our efforts investigating the PSP internals and functionality and how you can better understand it. Our talk..."
-            },
-            {
-              "id": "bc077e28-eeed-4852-a2b9-f5b4d8af714e",
-              "title": "(Post-Quantum) Isogeny Cryptography",
-              "episodeNumber": 10543,
-              "releaseDate": "2020-01-04T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "naehrwert"
-                }
-              ],
-              "content": {
-                "dateAdded": "2019-12-28T03:15:49.046+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-10543-eng-Post-Quantum_Isogeny_Cryptography.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 3142,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2019/10543-hd_preview.jpg",
-              "shortDescription": "There are countless post-quantum buzzwords to list: lattices, codes, multivariate polynomial systems, supersingular elliptic curve isogenies. We cannot possibly explain in one hour what each of...",
-              "longDescription": "There are countless post-quantum buzzwords to list: lattices, codes, multivariate polynomial systems, supersingular elliptic curve isogenies. We cannot possibly explain in one hour what each of those mean, but we will do our best to give the audience an idea about why elliptic curves and isogenies are awesome for building strong cryptosystems. It is the year 2019 and apparently quantum supremacy is finally upon us [1,2]. Surely, classical cryptography is broken? How are we going to protect..."
             },
             {
               "id": "4936d1ae-70a7-4588-9a7b-3538f3b07fae",
@@ -11293,6 +11293,33 @@
               "longDescription": "<p>In this talk, we\u2019re looking at third party tracking on Android. We\u2019ve captured and decrypted data in transit between our own devices and Facebook servers. It turns out that some apps routinely send Facebook information about your device and usage patterns - the second the app is opened. We\u2019ll walk you through the technical part of our analysis and end with a call to action: We believe that both Facebook and developers can do more to avoid oversharing, profiling and damaging the privacy of..."
             },
             {
+              "id": "5a8097ad-15c2-492e-8bc4-6b634fd8e963",
+              "title": "Russia vs. Telegram: technical notes on the battle",
+              "episodeNumber": 9653,
+              "releaseDate": "2018-12-29T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Leonid Evdokimov (darkk)"
+                }
+              ],
+              "content": {
+                "dateAdded": "2018-12-29T21:02:32.029+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9653-eng-Russia_vs_Telegram_technical_notes_on_the_battle.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2452,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9653-hd_preview.jpg",
+              "shortDescription": "It's time to highlight facts and epic fails that were observed on the wire during attempts to block Telegram in Russia. Russian Federal Service for Supervision of Communications, IT and Mass Media...",
+              "longDescription": "It's time to highlight facts and epic fails that were observed on the wire during attempts to block Telegram in Russia. Russian Federal Service for Supervision of Communications, IT and Mass Media started the process to ban Telegram on April the 16th. Roskomnadzor press-office claimed that the process will take a few hours. Telegram mostly worked in Russia during the incident beginning and still works half a year later. Russia banned Amazon, Google, Microsoft, DigitalOcean, Hetzner and other..."
+            },
+            {
               "id": "3a571c21-31ed-453b-886d-7dea7b5751cd",
               "title": "Internet of Dongs",
               "episodeNumber": 9523,
@@ -12989,33 +13016,6 @@
               "longDescription": "Matrix is an open standard for communication over the Internet. I will talk about the matrix standard, both the technical implementation and the reasons for its creation. We will focus on the changes and progress that has been made in the previous year, particularly getting the specification out of beta, and the growth of the ecosystem. Finally, the Matrix environment continues to develop, and we\u2019ll look at the roadmap for the future."
             },
             {
-              "id": "5a8097ad-15c2-492e-8bc4-6b634fd8e963",
-              "title": "Russia vs. Telegram: technical notes on the battle",
-              "episodeNumber": 9653,
-              "releaseDate": "2018-12-29T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Leonid Evdokimov (darkk)"
-                }
-              ],
-              "content": {
-                "dateAdded": "2018-12-29T21:02:32.029+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9653-eng-Russia_vs_Telegram_technical_notes_on_the_battle.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2452,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9653-hd_preview.jpg",
-              "shortDescription": "It's time to highlight facts and epic fails that were observed on the wire during attempts to block Telegram in Russia. Russian Federal Service for Supervision of Communications, IT and Mass Media...",
-              "longDescription": "It's time to highlight facts and epic fails that were observed on the wire during attempts to block Telegram in Russia. Russian Federal Service for Supervision of Communications, IT and Mass Media started the process to ban Telegram on April the 16th. Roskomnadzor press-office claimed that the process will take a few hours. Telegram mostly worked in Russia during the incident beginning and still works half a year later. Russia banned Amazon, Google, Microsoft, DigitalOcean, Hetzner and other..."
-            },
-            {
               "id": "a24c67d2-9cad-41a5-ada4-eff706d29920",
               "title": "The nextpnr FOSS FPGA place-and-route tool",
               "episodeNumber": 9612,
@@ -13122,6 +13122,37 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2018/9905-hd_preview.jpg",
               "shortDescription": "exploring the relations between design and perception of machines and the dynamics in between",
               "longDescription": "Why do navigation systems have feminine voices? We know Tay, Eliza, Siri not only as female names, but also as chatbots and software, which directly interact with humans. Although computer programs are per se genderless, gender seems not to be cancelled out in human-machine interaction, but why? This talk aims to examine how we map gender on computers and machines. This includes looking at software in machine-human interaction, as well as digging deeper into a cultural history of imagining..."
+            },
+            {
+              "id": "5909125c-6118-4cda-931a-8b936f81dda0",
+              "title": "Conquering Large Numbers at the LHC",
+              "episodeNumber": 9851,
+              "releaseDate": "2019-01-12T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Carsten Bittrich"
+                },
+                {
+                  "role": "actor",
+                  "name": "Stefanie Todt"
+                }
+              ],
+              "content": {
+                "dateAdded": "2019-01-12T19:00:25.137+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9851-eng-Conquering_Large_Numbers_at_the_LHC.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2504,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9851-hd_preview.jpg",
+              "shortDescription": "From 1 000 000 000 000 000 to 10: Breaking down 14 Orders of Magnitude",
+              "longDescription": "We are going to outline the ingredients necessary to perform measurements at the LHC, starting from an ordinary bottle of hydrogen. Let us take you on a journey following the path of the protons from this bottle to being ready for collisions in one of the detectors. Once the collisions are recorded we show the approaches and tools on how to extract the metaphorical needle in the haystack. The Large Hadron Collider at CERN is one of the largest and most precise machines mankind has built. As a..."
             },
             {
               "id": "c85de43e-107e-4247-b550-946f376e2ec4",
@@ -13346,37 +13377,6 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2018/10009-hd_preview.jpg",
               "shortDescription": "VR experience \"Beyond Slavery\"",
               "longDescription": "Let's think \"Beyond Slavery\": Afroroutes is a one-of-a-kind VR experience conceived as a journey through 3 displaced African heritages, immersing users in Rituals and Ceremonies to experience that well-conserved memory form, but also to feel the power of Music as a strong anthropological tool. Connecting Afro-diasporic narratives: alterity and heritage transcendence within the digital era, Afroroutes is a trigger to open a crucial debate about diasporic identity. Afroroutes is a VR experience..."
-            },
-            {
-              "id": "5909125c-6118-4cda-931a-8b936f81dda0",
-              "title": "Conquering Large Numbers at the LHC",
-              "episodeNumber": 9851,
-              "releaseDate": "2019-01-12T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Carsten Bittrich"
-                },
-                {
-                  "role": "actor",
-                  "name": "Stefanie Todt"
-                }
-              ],
-              "content": {
-                "dateAdded": "2019-01-12T19:00:25.137+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9851-eng-Conquering_Large_Numbers_at_the_LHC.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2504,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9851-hd_preview.jpg",
-              "shortDescription": "From 1 000 000 000 000 000 to 10: Breaking down 14 Orders of Magnitude",
-              "longDescription": "We are going to outline the ingredients necessary to perform measurements at the LHC, starting from an ordinary bottle of hydrogen. Let us take you on a journey following the path of the protons from this bottle to being ready for collisions in one of the detectors. Once the collisions are recorded we show the approaches and tools on how to extract the metaphorical needle in the haystack. The Large Hadron Collider at CERN is one of the largest and most precise machines mankind has built. As a..."
             },
             {
               "id": "e9095f5f-a38a-48da-b3d7-20da141b8b14",
@@ -14024,53 +14024,6 @@
               "longDescription": "Technology is the solution: What is the problem? This seems to be the motto. Algorithms may be about to control our free speech while tracking technologies could control our bodies and communications. Will we react or stay quiet? Technology is the solution: What is the problem? This seems to be the motto. Whether it is about preventing the dissemination of terrorist content or to prevent copyright infringements the solution from the legislator is upload filters. While content is controlled by..."
             },
             {
-              "id": "809b164e-a331-4005-a1d8-ebe55d61d64c",
-              "title": " Feminist Perspectives",
-              "episodeNumber": 10028,
-              "releaseDate": "2018-12-28T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Geraldine de Bastion"
-                },
-                {
-                  "role": "actor",
-                  "name": "Em O'Sullivan"
-                },
-                {
-                  "role": "actor",
-                  "name": "Lena Mohr"
-                },
-                {
-                  "role": "actor",
-                  "name": "Hong Phuc Dang"
-                },
-                {
-                  "role": "actor",
-                  "name": "Le RESET"
-                },
-                {
-                  "role": "actor",
-                  "name": "feminist hackerspace"
-                }
-              ],
-              "content": {
-                "dateAdded": "2018-12-28T23:17:45.876+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-10028-eng-Feminist_Perspectives.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 4624,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2018/10028-hd_preview.jpg",
-              "shortDescription": "Inclusive and Diverse Spaces and Communities",
-              "longDescription": "A variety of initiatives aims at encouraging female engagement in the hacker and maker scene. We present there some promising approaches and key learnings in a joint panel discussion. Hong Phuc grew up in a small town in the Mekong Delta, south of Vietnam, She could never imagine how her life went a completely different path than what she was told as a young girl. Le RESET is a French feminist hackerspace created in 2016 by a small group of queer & feminist hackers and hacktivists. The goal..."
-            },
-            {
               "id": "b34662ae-f1c6-4711-9270-b5865f6dd6c8",
               "title": "Scuttlebutt",
               "episodeNumber": 9635,
@@ -14409,6 +14362,53 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2018/9788-hd_preview.jpg",
               "shortDescription": "why clearing memory is hard.",
               "longDescription": "This presentation will start off with a simple problem (how do you clear memory that holds sensitive content). It explores numerous possible solutions, and presents real live facts and figures. bugs in common applications will be shown."
+            },
+            {
+              "id": "809b164e-a331-4005-a1d8-ebe55d61d64c",
+              "title": " Feminist Perspectives",
+              "episodeNumber": 10028,
+              "releaseDate": "2018-12-28T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Geraldine de Bastion"
+                },
+                {
+                  "role": "actor",
+                  "name": "Em O'Sullivan"
+                },
+                {
+                  "role": "actor",
+                  "name": "Lena Mohr"
+                },
+                {
+                  "role": "actor",
+                  "name": "Hong Phuc Dang"
+                },
+                {
+                  "role": "actor",
+                  "name": "Le RESET"
+                },
+                {
+                  "role": "actor",
+                  "name": "feminist hackerspace"
+                }
+              ],
+              "content": {
+                "dateAdded": "2018-12-28T23:17:45.876+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-10028-eng-Feminist_Perspectives.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 4624,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2018/10028-hd_preview.jpg",
+              "shortDescription": "Inclusive and Diverse Spaces and Communities",
+              "longDescription": "A variety of initiatives aims at encouraging female engagement in the hacker and maker scene. We present there some promising approaches and key learnings in a joint panel discussion. Hong Phuc grew up in a small town in the Mekong Delta, south of Vietnam, She could never imagine how her life went a completely different path than what she was told as a young girl. Le RESET is a French feminist hackerspace created in 2016 by a small group of queer & feminist hackers and hacktivists. The goal..."
             }
           ]
         }
@@ -14458,6 +14458,122 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2017/8937-hd_preview.jpg",
               "shortDescription": "Resilient P2P Messaging for Everyone",
               "longDescription": "Briar is a peer-to-peer messaging app that is resistant to censorship and works even without internet access. The app encrypts all data end-to-end and also hides metadata by utilizing Tor onion services. Around the world communication is increasingly monitored and restricted. If communication can not be eavesdropped on, it is often blocked entirely. Less advanced states even block the entire internet nation-wide. We need to develop tools that are more resilient to these threats. Communication..."
+            },
+            {
+              "id": "275f85de-d612-4440-8755-85dee5912f12",
+              "title": "How to drift with any car",
+              "episodeNumber": 8758,
+              "releaseDate": "2017-12-28T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Guillaume Heilles"
+                },
+                {
+                  "role": "actor",
+                  "name": "P1kachu"
+                }
+              ],
+              "content": {
+                "dateAdded": "2017-12-28T22:08:20.666+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-8758-eng-How_to_drift_with_any_car.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 3077,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2017/8758-hd_preview.jpg",
+              "shortDescription": "(without your mom yelling at you)",
+              "longDescription": "Lots of research are arising from the fairly unexplored world of automative communications. Cars are no longer becoming computers, they are fully connected networks where every ECU exchanges and operates the vehicles at some point. Here is an introduction of my immersion and discussions with my car, and how I finally managed to drift (a bit) with my mom's FWD Fiat 500c. This talk is not only about security, but about hacking and video games. Many video games are about driving cars, whether it..."
+            },
+            {
+              "id": "a1449c4d-79cd-46d8-8eb3-305707ef026a",
+              "title": "MQA - A clever stealth DRM-Trojan",
+              "episodeNumber": 9113,
+              "releaseDate": "2017-12-30T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Christoph Engemann"
+                },
+                {
+                  "role": "actor",
+                  "name": "Anton.schlesinger@studio-singer.de"
+                }
+              ],
+              "content": {
+                "dateAdded": "2017-12-30T18:03:10.071+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9113-eng-MQA_-_A_clever_stealth_DRM-Trojan.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 3631,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9113-hd_preview.jpg",
+              "shortDescription": "A critical look on a new audio Format",
+              "longDescription": "Master Quality Authenticated (MQA) is a new audio format promising studio sound at home and no DRM. We take a critical look both at the sound-quality aspects as well as on the DRM story of MQA. Master Quality Authenticated (MQA) is an audio format introduced in 2014 promising to deliver studio sound at home. Marketed aggressively mostly to audiophiles two claims are central to MQA: no DRM and better sound through \u201cdeblurring temporal inaccuracies\u201d introduced by ADCs and DACs in the signal..."
+            },
+            {
+              "id": "02489143-0b78-4302-9603-605d1c674fbb",
+              "title": "Uncertain Concern",
+              "episodeNumber": 9085,
+              "releaseDate": "2017-12-30T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Allison McDonald"
+                }
+              ],
+              "content": {
+                "dateAdded": "2017-12-30T18:08:12.010+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9085-eng-Uncertain_Concern.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 3494,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9085-hd_preview.jpg",
+              "shortDescription": "How Undocumented Immigrants in the US Navigate Technology",
+              "longDescription": "Over 11 million undocumented immigrants live in the United States today. Immediately after taking office, the Trump administration issued two executive orders pumping resources into border and immigration enforcement agencies, heightening fears of deportation, harassment, and family separation among immigrant communities. In the following months reports emerged of increased immigration enforcement activity and hints about the deployment of new high-tech methods by the immigration enforcement..."
+            },
+            {
+              "id": "3a957087-9ee2-47e8-b74a-d0a1a18d3673",
+              "title": "Why Do We Anthropomorphize Computers?...",
+              "episodeNumber": 9296,
+              "releaseDate": "2017-12-28T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": " Marloes de Valk"
+                }
+              ],
+              "content": {
+                "dateAdded": "2017-12-28T15:52:39.548+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9296-eng-Why_Do_We_Anthropomorphize_Computers.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1924,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9296-hd_preview.jpg",
+              "shortDescription": "...and dehumanize ourselves in the process?",
+              "longDescription": "A talk on waiting for the technological rapture in the church of big data. The paralysing effect of hiding the human hand in software through anthropomorphising computers and dehumanising ourselves."
             },
             {
               "id": "7edaed35-e938-4a13-b21c-aac4bb0ebf94",
@@ -15249,37 +15365,6 @@
               "longDescription": "Expect current examples of IoT fails that I collected during my work as a journalist in regards of privacy and security. What do such fails mean for society? What are possible solutions and what can customers do?"
             },
             {
-              "id": "275f85de-d612-4440-8755-85dee5912f12",
-              "title": "How to drift with any car",
-              "episodeNumber": 8758,
-              "releaseDate": "2017-12-28T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Guillaume Heilles"
-                },
-                {
-                  "role": "actor",
-                  "name": "P1kachu"
-                }
-              ],
-              "content": {
-                "dateAdded": "2017-12-28T22:08:20.666+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-8758-eng-How_to_drift_with_any_car.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 3077,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2017/8758-hd_preview.jpg",
-              "shortDescription": "(without your mom yelling at you)",
-              "longDescription": "Lots of research are arising from the fairly unexplored world of automative communications. Cars are no longer becoming computers, they are fully connected networks where every ECU exchanges and operates the vehicles at some point. Here is an introduction of my immersion and discussions with my car, and how I finally managed to drift (a bit) with my mom's FWD Fiat 500c. This talk is not only about security, but about hacking and video games. Many video games are about driving cars, whether it..."
-            },
-            {
               "id": "ff24373e-ebe2-4077-9db0-eae5ab003538",
               "title": "KRACKing WPA2 by Forcing Nonce Reuse",
               "episodeNumber": 9273,
@@ -15695,37 +15780,6 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2017/9077-hd_preview.jpg",
               "shortDescription": "Will You Be My Plugin?",
               "longDescription": "While technology is often described as an extension of our bodies, this talk will explore a reversed relationship: Bodies and minds of digital laborers (you and me and basically everybody else) as software extensions that can be easily plugged in, rewired, and discarded. I will approach this topic from an artist's point of view. From CAPTCHAS as micro jobs for training AI to people having to pretend to be bots, from gig work to APIs for programming people \u2013 we are extending computational..."
-            },
-            {
-              "id": "a1449c4d-79cd-46d8-8eb3-305707ef026a",
-              "title": "MQA - A clever stealth DRM-Trojan",
-              "episodeNumber": 9113,
-              "releaseDate": "2017-12-30T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Christoph Engemann"
-                },
-                {
-                  "role": "actor",
-                  "name": "Anton.schlesinger@studio-singer.de"
-                }
-              ],
-              "content": {
-                "dateAdded": "2017-12-30T18:03:10.071+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9113-eng-MQA_-_A_clever_stealth_DRM-Trojan.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 3631,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9113-hd_preview.jpg",
-              "shortDescription": "A critical look on a new audio Format",
-              "longDescription": "Master Quality Authenticated (MQA) is a new audio format promising studio sound at home and no DRM. We take a critical look both at the sound-quality aspects as well as on the DRM story of MQA. Master Quality Authenticated (MQA) is an audio format introduced in 2014 promising to deliver studio sound at home. Marketed aggressively mostly to audiophiles two claims are central to MQA: no DRM and better sound through \u201cdeblurring temporal inaccuracies\u201d introduced by ADCs and DACs in the signal..."
             },
             {
               "id": "581ccbad-4bbf-47a2-8845-f52278d61061",
@@ -16316,33 +16370,6 @@
               "longDescription": "In 2015, artist Ai Weiwei was bugged in his home, presumably by government actors. This situation raised our awareness on the lack of research in our community about operating and detecting spying microphones. Our biggest concern was that most of the knowledge came from fictional movies. Therefore, we performed a deep study on the state-of-the-art of microphone bugs, their characteristics, features and pitfalls. It included real life experiments trying to bug ourselves and trying to detect..."
             },
             {
-              "id": "eaf5d978-ea98-4474-9d40-7f493167d26d",
-              "title": "Simulating the future of the global agro-food system",
-              "episodeNumber": 8935,
-              "releaseDate": "2017-12-29T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Benjamin Leon Bodirsky"
-                }
-              ],
-              "content": {
-                "dateAdded": "2017-12-29T23:26:52.505+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-8935-eng-Simulating_the_future_of_the_global_agro-food_system.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2116,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2017/8935-hd_preview.jpg",
-              "shortDescription": "Cybernetic models analyze scenarios of interactions between future global food consumption, agriculture, landuse, and the biogeochemical cycles of water, nitrogen and carbon.",
-              "longDescription": "How can we feed a growing world population within a resilient Earth System? This session will present results from our cybernetic computer models that simulate how future trends in population growth, diets, technology and policy may change the global land cover, freshwater usage, the nitrogen cycle and the climate system, and how more sustainable pathways can be reached. We want to discuss how our computer models and our data can be made accessible and usable by a broader community, and which..."
-            },
-            {
               "id": "c21cb389-aba3-4eaa-ba1f-76f966b1686e",
               "title": "Opening Closed Systems with GlitchKit",
               "episodeNumber": 9207,
@@ -16521,33 +16548,6 @@
               "longDescription": "Backing up private keys in a secure manner is not straightforward. Once a backup has been compromised you need to refresh all your key material. For example, the disclosure of a private key of a Bitcoin wallet gives access to the coins inside. This makes it unattractive to store a complete backup of your private key(s) with your bank or your spouse. The better option would be to split the key into multiple parts. The recommended way to do this securely is to use the Shamir secret sharing..."
             },
             {
-              "id": "02489143-0b78-4302-9603-605d1c674fbb",
-              "title": "Uncertain Concern",
-              "episodeNumber": 9085,
-              "releaseDate": "2017-12-30T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Allison McDonald"
-                }
-              ],
-              "content": {
-                "dateAdded": "2017-12-30T18:08:12.010+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9085-eng-Uncertain_Concern.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 3494,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9085-hd_preview.jpg",
-              "shortDescription": "How Undocumented Immigrants in the US Navigate Technology",
-              "longDescription": "Over 11 million undocumented immigrants live in the United States today. Immediately after taking office, the Trump administration issued two executive orders pumping resources into border and immigration enforcement agencies, heightening fears of deportation, harassment, and family separation among immigrant communities. In the following months reports emerged of increased immigration enforcement activity and hints about the deployment of new high-tech methods by the immigration enforcement..."
-            },
-            {
               "id": "23d59026-ab98-4f6c-a46d-0bb3e1788a67",
               "title": "Squeezing a key through a carry bit",
               "episodeNumber": 9021,
@@ -16631,6 +16631,33 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2017/8989-hd_preview.jpg",
               "shortDescription": "Freetown Christiania\u00b4s digitally controlled/surveyed heating system. 350 users",
               "longDescription": "Project \u201cNabovarme\u201d (meaning \u201cneighbour heating\u201d) has transformed private heating necessity into a social experiment build on OpenSource software/hardware and social empowerment by transforming heat consumers into Nabovarme Users and letting them take ownership to infrastructure and consumption. Christiania - a child of hippie thinking and direct democracy, est. 1971 900 inhabitants, 210 houses, 24 hectares land, 1 km from the danish parliament and the royal palace Local common ownership to..."
+            },
+            {
+              "id": "eaf5d978-ea98-4474-9d40-7f493167d26d",
+              "title": "Simulating the future of the global agro-food system",
+              "episodeNumber": 8935,
+              "releaseDate": "2017-12-29T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Benjamin Leon Bodirsky"
+                }
+              ],
+              "content": {
+                "dateAdded": "2017-12-29T23:26:52.505+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-8935-eng-Simulating_the_future_of_the_global_agro-food_system.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2116,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2017/8935-hd_preview.jpg",
+              "shortDescription": "Cybernetic models analyze scenarios of interactions between future global food consumption, agriculture, landuse, and the biogeochemical cycles of water, nitrogen and carbon.",
+              "longDescription": "How can we feed a growing world population within a resilient Earth System? This session will present results from our cybernetic computer models that simulate how future trends in population growth, diets, technology and policy may change the global land cover, freshwater usage, the nitrogen cycle and the climate system, and how more sustainable pathways can be reached. We want to discuss how our computer models and our data can be made accessible and usable by a broader community, and which..."
             },
             {
               "id": "7f293cf6-6d19-43ed-8aa7-7371e008bd45",
@@ -17477,33 +17504,6 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2017/9290-hd_preview.jpg",
               "shortDescription": "Approaches to working with sound and network data transmissions as a sculptural medium.",
               "longDescription": "This talk considers the visceral relationship one can have towards intangible media, notably sound and network data transmissions. Sarah presents a selection of her work demonstrating these synesthetic relationships, ranging from experiments in bio and fiber arts to interface design and educational tools for demystifying computer networking technology."
-            },
-            {
-              "id": "3a957087-9ee2-47e8-b74a-d0a1a18d3673",
-              "title": "Why Do We Anthropomorphize Computers?...",
-              "episodeNumber": 9296,
-              "releaseDate": "2017-12-28T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": " Marloes de Valk"
-                }
-              ],
-              "content": {
-                "dateAdded": "2017-12-28T15:52:39.548+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9296-eng-Why_Do_We_Anthropomorphize_Computers.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 1924,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9296-hd_preview.jpg",
-              "shortDescription": "...and dehumanize ourselves in the process?",
-              "longDescription": "A talk on waiting for the technological rapture in the church of big data. The paralysing effect of hiding the human hand in software through anthropomorphising computers and dehumanising ourselves."
             },
             {
               "id": "15858ba2-f109-48f3-9934-a4362a0f5e78",
@@ -19877,37 +19877,6 @@
               "longDescription": "Since the early successes of moon missions in the Sixtie, mankind has moved on to the earth orbit and other deep space missions. But interest in the moon as a target has intensified recently as the strategies for future missions are evolving."
             },
             {
-              "id": "c6decee9-310c-40b9-90af-5937df22e1aa",
-              "title": "Lightning Talks Day 4",
-              "episodeNumber": 8089,
-              "releaseDate": "2016-12-30T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "gedsic"
-                },
-                {
-                  "role": "actor",
-                  "name": "bigalex"
-                }
-              ],
-              "content": {
-                "dateAdded": "2016-12-30T18:30:03.958+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2016/h264-hd/33c3-8089-eng-Lightning_Talks_Day_4.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 6587,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2016/8089-hd_preview.jpg",
-              "shortDescription": "Lightning Talks",
-              "longDescription": "Lightning Talks are short lectures (almost) any congress participant may give! Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick!"
-            },
-            {
               "id": "fc56c971-c65e-43ca-a92c-d98c7fb47bd6",
               "title": "The Transhumanist Paradox",
               "episodeNumber": 8064,
@@ -20265,6 +20234,37 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2016/8324-hd_preview.jpg",
               "shortDescription": "The High Priests of the Digital Age Are Working Behind Your Back to Make You Confess, and Repent.",
               "longDescription": "The High Priests of the Digital Age Are Working Behind Your Back to Make You Confess, and Repent."
+            },
+            {
+              "id": "c6decee9-310c-40b9-90af-5937df22e1aa",
+              "title": "Lightning Talks Day 4",
+              "episodeNumber": 8089,
+              "releaseDate": "2016-12-30T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "gedsic"
+                },
+                {
+                  "role": "actor",
+                  "name": "bigalex"
+                }
+              ],
+              "content": {
+                "dateAdded": "2016-12-30T18:30:03.958+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2016/h264-hd/33c3-8089-eng-Lightning_Talks_Day_4.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 6587,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2016/8089-hd_preview.jpg",
+              "shortDescription": "Lightning Talks",
+              "longDescription": "Lightning Talks are short lectures (almost) any congress participant may give! Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick!"
             },
             {
               "id": "c3844820-b5ed-4b12-9094-cfc67aff60be",
