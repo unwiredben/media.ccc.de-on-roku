@@ -4,7 +4,7 @@
   "categories": [
     {
       "name": "Featured",
-      "query": "2020",
+      "query": "2020 or 2021",
       "order": "most_recent"
     },
     {
@@ -18,7 +18,7 @@
       "order": "most_recent"
     }
   ],
-  "lastUpdated": "2022-02-24T20:38:21.768893+00:00",
+  "lastUpdated": "2022-02-24T21:01:32.951302+00:00",
   "series": [
     {
       "id": "conferences/rc3/2021",
@@ -66,31 +66,31 @@
               "longDescription": "\u201cInformation\u201d showcases the threats created by the appalling misuse of modern technology in an ideological fight legitimised by the false dichotomy of freedom vs security. It shifts the representational power from discourse dominating white men towards the expertise of women and people of colour. It explores the connection between racism and surveillance, from social, political and historical standpoints. Featuring: Aditi Gupta, Dr Arata Takeda, Aral Balkan, Dr Constanze Kurz, Hossein..."
             },
             {
-              "id": "ef4dcfd0-a6f8-5354-8cb2-cae7540cbf46",
-              "title": "TPM - The Explosion",
+              "id": "ad59d7d0-7116-524f-82c3-88a26c1edcda",
+              "title": "Math for hackers",
               "episodeNumber": 2021,
-              "releaseDate": "2022-02-20T00:00:00.000+01:00",
+              "releaseDate": "2021-12-29T00:00:00.000+01:00",
               "credits": [
                 {
                   "role": "actor",
-                  "name": "Daniel Maslowski"
+                  "name": "Michael Sperber"
                 }
               ],
               "content": {
-                "dateAdded": "2022-02-20T16:58:13.278+01:00",
+                "dateAdded": "2021-12-29T17:57:58.232+01:00",
                 "videos": [
                   {
-                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-classic-208-eng-r3s_TPM_-_The_Explosion_Daniel_Maslowski_hd.mp4",
+                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-import-303-eng-Math_for_hackers.mp4",
                     "quality": "HD",
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 2452,
+                "duration": 2951,
                 "language": "en"
               },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/208-ef4dcfd0-a6f8-5354-8cb2-cae7540cbf46_preview.jpg",
-              "shortDescription": "With approaches dating back to the 20th century, the idea of a TPM is simple: An isolated, constrained environment to offload trust establishment in a larger computing environment. That implies...",
-              "longDescription": "With approaches dating back to the 20th century, the idea of a TPM is simple: An isolated, constrained environment to offload trust establishment in a larger computing environment. That implies cryptography, firmware, hardware, and per application, different requirements. This talk elaborates on how the seemingly simple concept has been expanded over the years, enumerating implementations in hardware, firmware, other layers of software, and even web browsers, explaining why it is in fact far..."
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/303-ad59d7d0-7116-524f-82c3-88a26c1edcda_preview.jpg",
+              "shortDescription": "Math and hacking - two separate worlds at odds or secret lovers? Lovers, of course! How so, you might ask - math is boring and useless! (And hacking is great fun, of course.) We'll try to change...",
+              "longDescription": "Math and hacking - two separate worlds at odds or secret lovers? Lovers, of course! How so, you might ask - math is boring and useless! (And hacking is great fun, of course.) We'll try to change your mind! Be honest: When you're hacking, aren't you really building a world inside a system that operates according to fixed, pedantic, boring rules? (And when the system does not operate according to those rules, do you not get annoyed?) That's secretly a form of applied mathematics! Now, math has..."
             },
             {
               "id": "c0df537d-b592-5a20-83a8-eb4f1955c0b1",
@@ -178,31 +178,31 @@
               "longDescription": "NSO Group has continued to make headlines for all the wrong reasons. This talk will provide a behind-the-scenes look at how Amnesty International's Security Lab tracked NSO Group spyware over years and developed innovative forensic tools and techniques to detect the supposedly \"undetectable\" Pegasus spyware on infected devices. These tools were ultimately used to identify traces of Pegasus spyware on the devices of numerous activists and journalists around the world. The talk will demonstrate..."
             },
             {
-              "id": "ad59d7d0-7116-524f-82c3-88a26c1edcda",
-              "title": "Math for hackers",
+              "id": "ef4dcfd0-a6f8-5354-8cb2-cae7540cbf46",
+              "title": "TPM - The Explosion",
               "episodeNumber": 2021,
-              "releaseDate": "2021-12-29T00:00:00.000+01:00",
+              "releaseDate": "2022-02-20T00:00:00.000+01:00",
               "credits": [
                 {
                   "role": "actor",
-                  "name": "Michael Sperber"
+                  "name": "Daniel Maslowski"
                 }
               ],
               "content": {
-                "dateAdded": "2021-12-29T17:57:58.232+01:00",
+                "dateAdded": "2022-02-20T16:58:13.278+01:00",
                 "videos": [
                   {
-                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-import-303-eng-Math_for_hackers.mp4",
+                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-classic-208-eng-r3s_TPM_-_The_Explosion_Daniel_Maslowski_hd.mp4",
                     "quality": "HD",
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 2951,
+                "duration": 2452,
                 "language": "en"
               },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/303-ad59d7d0-7116-524f-82c3-88a26c1edcda_preview.jpg",
-              "shortDescription": "Math and hacking - two separate worlds at odds or secret lovers? Lovers, of course! How so, you might ask - math is boring and useless! (And hacking is great fun, of course.) We'll try to change...",
-              "longDescription": "Math and hacking - two separate worlds at odds or secret lovers? Lovers, of course! How so, you might ask - math is boring and useless! (And hacking is great fun, of course.) We'll try to change your mind! Be honest: When you're hacking, aren't you really building a world inside a system that operates according to fixed, pedantic, boring rules? (And when the system does not operate according to those rules, do you not get annoyed?) That's secretly a form of applied mathematics! Now, math has..."
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/208-ef4dcfd0-a6f8-5354-8cb2-cae7540cbf46_preview.jpg",
+              "shortDescription": "With approaches dating back to the 20th century, the idea of a TPM is simple: An isolated, constrained environment to offload trust establishment in a larger computing environment. That implies...",
+              "longDescription": "With approaches dating back to the 20th century, the idea of a TPM is simple: An isolated, constrained environment to offload trust establishment in a larger computing environment. That implies cryptography, firmware, hardware, and per application, different requirements. This talk elaborates on how the seemingly simple concept has been expanded over the years, enumerating implementations in hardware, firmware, other layers of software, and even web browsers, explaining why it is in fact far..."
             },
             {
               "id": "bbc8c67b-7f3c-5433-8745-cff2c56b3b51",
@@ -866,33 +866,6 @@
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/364-b7eb5f7c-a7dd-5c4e-b5dd-345db283a6db_preview.jpg",
               "shortDescription": "To limit climate change to a temperature-rise of 2 \u00b0C, at least 220 billion metric tons of carbon must be extracted from the atmosphere and sequestered in terrestrial C-sinks. Using smart Carbon...",
               "longDescription": "To limit climate change to a temperature-rise of 2 \u00b0C, at least 220 billion metric tons of carbon must be extracted from the atmosphere and sequestered in terrestrial C-sinks. Using smart Carbon Farming approaches combined with pyrolysis to produce biochar and oil is the only Negative Emission Technology ready to scale. The so-called Pyrogenic Carbon Capture and Storage (PyCCS) solution could achieve one-third of the global sink capacity needed by 2050. However, it would need around 400,000..."
-            },
-            {
-              "id": "996a7885-d684-55b4-a82e-964d700a49e1",
-              "title": "StVO hacken - Verkehrswende selbermachen",
-              "episodeNumber": 2021,
-              "releaseDate": "2022-01-10T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Laura Fritsche"
-                }
-              ],
-              "content": {
-                "dateAdded": "2022-01-10T17:40:47.560+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-import-346-eng-StVO_hacken_-_Verkehrswende_selbermachen_hd.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2951,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/346-996a7885-d684-55b4-a82e-964d700a49e1_preview.jpg",
-              "shortDescription": "Sowohl die Klimakatastrophe als auch der Verkehrskollaps droht - St\u00e4dte werden immer lebensunfreundlicher, wenn wir nicht aktiv dagegensteuern. Wie k\u00f6nnen wir als Privatpersonen und...",
-              "longDescription": "Sowohl die Klimakatastrophe als auch der Verkehrskollaps droht - St\u00e4dte werden immer lebensunfreundlicher, wenn wir nicht aktiv dagegensteuern. Wie k\u00f6nnen wir als Privatpersonen und Verkehrsteilnehmende die StVO f\u00fcr die Mobilit\u00e4tswende und nachhaltige Stadtentwicklung nutzen? Was sind unsere Handlungsspielr\u00e4ume und wie k\u00f6nnen wir Einfluss \u00fcben? Lasst uns die \u00f6ffentliche Stra\u00dfe zur\u00fcckerobern - indem wir uns ganz legal bewegen. Denn wir d\u00fcrfen es. Jedes Jahr fluten circa 1 Million mehr Kfz..."
             },
             {
               "id": "5e220727-7d67-4fd0-91c6-32675fe29a49",
@@ -2071,6 +2044,33 @@
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/431-4f99ac16-33f8-516b-8a50-5bffa76d607e_preview.jpg",
               "shortDescription": "I\u2018ll show how to modify a small deep fryer so it can be used for vapour phase soldering.",
               "longDescription": "I\u2018ll show how to modify a small deep fryer so it can be used for vapour phase soldering."
+            },
+            {
+              "id": "996a7885-d684-55b4-a82e-964d700a49e1",
+              "title": "StVO hacken - Verkehrswende selbermachen",
+              "episodeNumber": 2021,
+              "releaseDate": "2022-01-10T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Laura Fritsche"
+                }
+              ],
+              "content": {
+                "dateAdded": "2022-01-10T17:40:47.560+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/rc3/2021/h264-hd/rc3-2021-import-346-eng-StVO_hacken_-_Verkehrswende_selbermachen_hd.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2951,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/2021/346-996a7885-d684-55b4-a82e-964d700a49e1_preview.jpg",
+              "shortDescription": "Sowohl die Klimakatastrophe als auch der Verkehrskollaps droht - St\u00e4dte werden immer lebensunfreundlicher, wenn wir nicht aktiv dagegensteuern. Wie k\u00f6nnen wir als Privatpersonen und...",
+              "longDescription": "Sowohl die Klimakatastrophe als auch der Verkehrskollaps droht - St\u00e4dte werden immer lebensunfreundlicher, wenn wir nicht aktiv dagegensteuern. Wie k\u00f6nnen wir als Privatpersonen und Verkehrsteilnehmende die StVO f\u00fcr die Mobilit\u00e4tswende und nachhaltige Stadtentwicklung nutzen? Was sind unsere Handlungsspielr\u00e4ume und wie k\u00f6nnen wir Einfluss \u00fcben? Lasst uns die \u00f6ffentliche Stra\u00dfe zur\u00fcckerobern - indem wir uns ganz legal bewegen. Denn wir d\u00fcrfen es. Jedes Jahr fluten circa 1 Million mehr Kfz..."
             }
           ]
         }
@@ -2184,6 +2184,114 @@
               "longDescription": "Virtual Pwn Networks (VPNs) add a network layer that should provide privacy and security. The privacy of VPNs clearly depends on their endpoint, thus, many companies run their own instances. We demonstrate that VPNs can be insecure nonetheless, as the users connecting to a company's VPN typically requires proprietary client software on their systems. These proprietary clients lack security, as we show based on the Cisco AnyConnect client for Linux and iOS. This research starts with a weird..."
             },
             {
+              "id": "0e40fa4c-0d36-5a71-a9de-f7341ed6124e",
+              "title": "Patching Democracy",
+              "episodeNumber": 40403,
+              "releaseDate": "2020-12-29T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Till Sanders"
+                }
+              ],
+              "content": {
+                "dateAdded": "2020-12-29T16:34:04.200+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-hacc-106-eng-Patching_Democracy_hd.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 3727,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/106-0e40fa4c-0d36-5a71-a9de-f7341ed6124e_preview.jpg",
+              "shortDescription": "We introduce the concept of a VAA by example of the well-known \"Wahl-O-Mat\", talk about the benefits and move on to explain, how to run an election compass for your hometown using the free and open...",
+              "longDescription": "We introduce the concept of a VAA by example of the well-known \"Wahl-O-Mat\", talk about the benefits and move on to explain, how to run an election compass for your hometown using the free and open source OpenElectionCompass. A voting advice application is a great way to support elections and democracy as a whole by making the parties or candidates more transparent and comparable. The differences between political parties are often difficult to understand for the voters, especially for first-..."
+            },
+            {
+              "id": "f985d81a-d225-58b8-a645-97cf1871472f",
+              "title": "Wikidata for (Data) Journalists",
+              "episodeNumber": 985812,
+              "releaseDate": "2021-01-09T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Elisabeth Giesemann"
+                }
+              ],
+              "content": {
+                "dateAdded": "2021-01-09T14:14:54.885+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-wikipaka-139-eng-Wikidata_for_Data_Journalists_hd.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1539,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/139-f985d81a-d225-58b8-a645-97cf1871472f_preview.jpg",
+              "shortDescription": "Data journalists work similarly to scientists: they formulate (research) hypotheses, analyze data and sometimes even collect data themselves. For this, open data ressources are crucial. They can...",
+              "longDescription": "Data journalists work similarly to scientists: they formulate (research) hypotheses, analyze data and sometimes even collect data themselves. For this, open data ressources are crucial. They can can reveal unfamiliar correlations, lead to new questions and stories. Wikidata is the largest linked open data ressource on the internet. But what exactly is stored in it and how can journalists use it for their work? We will have a look at the way Wikidata works and how it can be used a.k.a. queried..."
+            },
+            {
+              "id": "09b009df-ab6e-41e3-a921-6182dd54f758",
+              "title": "Bulgaria Protests 2020",
+              "episodeNumber": 11541,
+              "releaseDate": "2020-12-29T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "m"
+                }
+              ],
+              "content": {
+                "dateAdded": "2020-12-29T23:16:04.554+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-csh-11541-eng-Bulgaria_Protests_2020.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2866,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/11541-09b009df-ab6e-41e3-a921-6182dd54f758_preview.jpg",
+              "shortDescription": "Do you see us?",
+              "longDescription": "2020 was and still is an eventful year - pandemic, protests, orange men, you name it. This talk is a comprehensive overview about yet another tumult: the protests that occured in Bulgaria in 2020, months of demonstrations against an European Union member state government that were largely unacknowledged in the rest of the EU - from the perspective of an expat and an involved small scale activist on the fringe. The goal is to convey to some extent my experience and acquired updated knowledge I..."
+            },
+            {
+              "id": "56357b47-59c4-5848-939f-dd8516572911",
+              "title": "\u00c5is",
+              "episodeNumber": 0,
+              "releaseDate": "2021-02-04T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "\u00c5is"
+                }
+              ],
+              "content": {
+                "dateAdded": "2021-02-04T21:43:42.092+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-franconiannet-234-eng-Ais_hd.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 4480,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/events/rc3/234-56357b47-59c4-5848-939f-dd8516572911_preview.jpg",
+              "shortDescription": "_electronic _techno electronic music played live with blinking bleep-boxes and boing-boom-tschak-machines",
+              "longDescription": "_electronic _techno electronic music played live with blinking bleep-boxes and boing-boom-tschak-machines"
+            },
+            {
               "id": "929b5785-5d8f-54d8-979d-98c1284e8c85",
               "title": "The #ReclaimYourFace campaign: EU, BAN biometric mass surveillance!",
               "episodeNumber": 929578,
@@ -2225,60 +2333,6 @@
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/252-929b5785-5d8f-54d8-979d-98c1284e8c85_preview.jpg",
               "shortDescription": "The EU is making new laws on AI. People are mobilising against biometric surveillance in public spaces. Hear about what's going on in different European countries, what tools activists are using to...",
               "longDescription": "The EU is making new laws on AI. People are mobilising against biometric surveillance in public spaces. Hear about what's going on in different European countries, what tools activists are using to attack face recognition and similar mass surveillance technologies and - most importantly - what you can do to join the civil society #ReclaimYourFace movement. The European Union is setting new rules on Artificial Intelligence and people want to have a say. This is a once-in-a-lifetime chance to..."
-            },
-            {
-              "id": "0e40fa4c-0d36-5a71-a9de-f7341ed6124e",
-              "title": "Patching Democracy",
-              "episodeNumber": 40403,
-              "releaseDate": "2020-12-29T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Till Sanders"
-                }
-              ],
-              "content": {
-                "dateAdded": "2020-12-29T16:34:04.200+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-hacc-106-eng-Patching_Democracy_hd.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 3727,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/106-0e40fa4c-0d36-5a71-a9de-f7341ed6124e_preview.jpg",
-              "shortDescription": "We introduce the concept of a VAA by example of the well-known \"Wahl-O-Mat\", talk about the benefits and move on to explain, how to run an election compass for your hometown using the free and open...",
-              "longDescription": "We introduce the concept of a VAA by example of the well-known \"Wahl-O-Mat\", talk about the benefits and move on to explain, how to run an election compass for your hometown using the free and open source OpenElectionCompass. A voting advice application is a great way to support elections and democracy as a whole by making the parties or candidates more transparent and comparable. The differences between political parties are often difficult to understand for the voters, especially for first-..."
-            },
-            {
-              "id": "09b009df-ab6e-41e3-a921-6182dd54f758",
-              "title": "Bulgaria Protests 2020",
-              "episodeNumber": 11541,
-              "releaseDate": "2020-12-29T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "m"
-                }
-              ],
-              "content": {
-                "dateAdded": "2020-12-29T23:16:04.554+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-csh-11541-eng-Bulgaria_Protests_2020.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2866,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/11541-09b009df-ab6e-41e3-a921-6182dd54f758_preview.jpg",
-              "shortDescription": "Do you see us?",
-              "longDescription": "2020 was and still is an eventful year - pandemic, protests, orange men, you name it. This talk is a comprehensive overview about yet another tumult: the protests that occured in Bulgaria in 2020, months of demonstrations against an European Union member state government that were largely unacknowledged in the rest of the EU - from the perspective of an expat and an involved small scale activist on the fringe. The goal is to convey to some extent my experience and acquired updated knowledge I..."
             },
             {
               "id": "f5010a2a-e4f5-5019-9dd0-34bed77dda43",
@@ -3715,33 +3769,6 @@
               "longDescription": "Everyone knows and loves the famous line from the cinematic masterpiece where the IT-Security specialist asks the CPU architect: \"Warum leaked hier Strom?\" (Why is power leaking here?). In this talk, we want to answer that question. We demonstrate how we can attack modern processors purely in software, relying on techniques from classical power side-channel attacks. We explain how we abuse the unprivileged access to energy-monitoring features of modern Intel and AMD CPUs. With PLATYPUS, we..."
             },
             {
-              "id": "f985d81a-d225-58b8-a645-97cf1871472f",
-              "title": "Wikidata for (Data) Journalists",
-              "episodeNumber": 985812,
-              "releaseDate": "2021-01-09T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Elisabeth Giesemann"
-                }
-              ],
-              "content": {
-                "dateAdded": "2021-01-09T14:14:54.885+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-wikipaka-139-eng-Wikidata_for_Data_Journalists_hd.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 1539,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/139-f985d81a-d225-58b8-a645-97cf1871472f_preview.jpg",
-              "shortDescription": "Data journalists work similarly to scientists: they formulate (research) hypotheses, analyze data and sometimes even collect data themselves. For this, open data ressources are crucial. They can...",
-              "longDescription": "Data journalists work similarly to scientists: they formulate (research) hypotheses, analyze data and sometimes even collect data themselves. For this, open data ressources are crucial. They can can reveal unfamiliar correlations, lead to new questions and stories. Wikidata is the largest linked open data ressource on the internet. But what exactly is stored in it and how can journalists use it for their work? We will have a look at the way Wikidata works and how it can be used a.k.a. queried..."
-            },
-            {
               "id": "7c09baef-9120-5eb2-866b-b33ed4da207c",
               "title": "Adopting the Noise Key Exchange in Tox",
               "episodeNumber": 709912,
@@ -4292,33 +4319,6 @@
               "thumbnail": "https://static.media.ccc.de/media/events/rc3/244-f1d2a9ea-2260-58a7-883e-2093a4bdb6e8_preview.jpg",
               "shortDescription": "What kind of cyber-physical infrastructure can insure that producing for human need can stay within planetary boundaries? This is based on the recent P2P Foundation report, 'P2P Accounting for...",
               "longDescription": "What kind of cyber-physical infrastructure can insure that producing for human need can stay within planetary boundaries? This is based on the recent P2P Foundation report, 'P2P Accounting for Planetary Survival', which you can find here: http://commonstransition.org/p2p-accounting-for-planetary-survival/ Kate Raworth's Doughnut Economy proposes an economy that can navigate below an ecological roof, that preserves planetary boundaries, and a social basement, which insures the basic needs of..."
-            },
-            {
-              "id": "56357b47-59c4-5848-939f-dd8516572911",
-              "title": "\u00c5is",
-              "episodeNumber": 0,
-              "releaseDate": "2021-02-04T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "\u00c5is"
-                }
-              ],
-              "content": {
-                "dateAdded": "2021-02-04T21:43:42.092+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-franconiannet-234-eng-Ais_hd.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 4480,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/events/rc3/234-56357b47-59c4-5848-939f-dd8516572911_preview.jpg",
-              "shortDescription": "_electronic _techno electronic music played live with blinking bleep-boxes and boing-boom-tschak-machines",
-              "longDescription": "_electronic _techno electronic music played live with blinking bleep-boxes and boing-boom-tschak-machines"
             },
             {
               "id": "88faa2f9-10f6-4236-a65d-37eb215c5e8b",
@@ -6447,6 +6447,33 @@
           "seasonNumber": 1,
           "episodes": [
             {
+              "id": "8a9dcc49-ee05-5c33-a843-c5081a4d74b8",
+              "title": "Arch Linux Team Q&A",
+              "episodeNumber": 0,
+              "releaseDate": "2020-11-01T00:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "The Arch Linux Team"
+                }
+              ],
+              "content": {
+                "dateAdded": "2020-11-01T23:43:25.362+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/events/archconf/2020/h264-hd/arch-conf-2020-6309-eng-Arch_Linux_Team_Q_A_hd.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2846,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/conferences/archconf/2020/6309-hd_preview.jpg",
+              "shortDescription": "Members from the Arch Linux team has a live Q&A. We will be answering questions from the live chats and try have fun doing it over spotty live video conferencing software.",
+              "longDescription": "Members from the Arch Linux team has a live Q&A. We will be answering questions from the live chats and try have fun doing it over spotty live video conferencing software."
+            },
+            {
               "id": "d97f3f86-852e-56b0-8603-896bd7724dbc",
               "title": "pytest-pacman - generating test data for libalpm with Python",
               "episodeNumber": 0,
@@ -6638,33 +6665,6 @@
               "thumbnail": "https://static.media.ccc.de/media/conferences/archconf/2020/6379-hd_preview.jpg",
               "shortDescription": "This year marked 18 years since the first official release of Arch Linux. Now that the distribution has reached adulthood, it is a good time to reflect on its history, the decisions that have made...",
               "longDescription": "This year marked 18 years since the first official release of Arch Linux. Now that the distribution has reached adulthood, it is a good time to reflect on its history, the decisions that have made it the distribution it is today, and what lessons we have learned along the way. We will conclude with a discussion of the future of the distribution, what we are currently working towards and the possibilities to come."
-            },
-            {
-              "id": "8a9dcc49-ee05-5c33-a843-c5081a4d74b8",
-              "title": "Arch Linux Team Q&A",
-              "episodeNumber": 0,
-              "releaseDate": "2020-11-01T00:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "The Arch Linux Team"
-                }
-              ],
-              "content": {
-                "dateAdded": "2020-11-01T23:43:25.362+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/events/archconf/2020/h264-hd/arch-conf-2020-6309-eng-Arch_Linux_Team_Q_A_hd.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2846,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/conferences/archconf/2020/6309-hd_preview.jpg",
-              "shortDescription": "Members from the Arch Linux team has a live Q&A. We will be answering questions from the live chats and try have fun doing it over spotty live video conferencing software.",
-              "longDescription": "Members from the Arch Linux team has a live Q&A. We will be answering questions from the live chats and try have fun doing it over spotty live video conferencing software."
             },
             {
               "id": "91c694a5-e9fb-5757-ba5b-d20303fc3106",
@@ -6959,33 +6959,6 @@
           "seasonNumber": 1,
           "episodes": [
             {
-              "id": "3aae5c0a-9c9b-483a-8c09-b4402d749a82",
-              "title": "The Case for Scale in Cyber Security",
-              "episodeNumber": 11220,
-              "releaseDate": "2019-12-28T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Vincenzo Iozzo"
-                }
-              ],
-              "content": {
-                "dateAdded": "2019-12-28T12:47:53.485+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-11220-eng-The_Case_for_Scale_in_Cyber_Security.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 1938,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2019/11220-hd_preview.jpg",
-              "shortDescription": "Security Track Keynote",
-              "longDescription": "The impact of scale in our field has been enormous and it has transformed the tools, the jobs and the face of the Infosec community. In this talk we discuss some of the ways in which defense has benefitted from scale, how the industry might be transitioning to a new phase of its growth and how the community will have to evolve to stay relevant."
-            },
-            {
               "id": "fecad3ac-349d-4363-b9c6-2516b77fdfb2",
               "title": "Leaving legacy behind",
               "episodeNumber": 11172,
@@ -7040,6 +7013,33 @@
               "longDescription": "Everybody knows about the Boeing 737 MAX crashes and the type's continued grounding. I will try to give some technical background information on the causes of the crash, technical, sociological and organisational, covering pilot proficiency, botched maintenance, system design and risk assessment, as well as a deeply flawed certification processes. On the surface of it, the accidents to two aircraft of the same type (Boeing 737 MAX), which eventually led to the suspension of airworthiness of..."
             },
             {
+              "id": "d1d0c29a-a8c3-4c96-b98e-3823b3d27902",
+              "title": "The KGB Hack: 30 Years Later",
+              "episodeNumber": 11031,
+              "releaseDate": "2019-12-28T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Anja Drephal"
+                }
+              ],
+              "content": {
+                "dateAdded": "2019-12-28T16:42:45.421+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-11031-eng-The_KGB_Hack_30_Years_Later.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2866,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2019/11031-hd_preview.jpg",
+              "shortDescription": "Looking back at the perhaps most dramatic instance of hacking of the 1980s and the role it had in shaping the public image of the CCC.",
+              "longDescription": "This spring marked the 30th anniversary of the public uncovering of the so-called KGB Hack, bringing with it a number of new articles remembering the event and forging bridges to the present. This spring marked the 30th anniversary of the public uncovering of the so-called KGB Hack, bringing with it a number of new articles remembering the event and forging bridges to the present. The 36C3 seems an excellent opportunity to take a look back at the instance of hacking which, even more so than..."
+            },
+            {
               "id": "2264aaad-2df6-545f-918c-cc5caea4e507",
               "title": "Building Nextcloud Flow",
               "episodeNumber": 0,
@@ -7065,6 +7065,60 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2019/oio/174-hd_preview.jpg",
               "shortDescription": "Nextcloud Flow is the overhauled workflow engine in upcoming Nextcloud 18. This talk describes how it evolved, how it works internally, and especially how own components can be built, so you can...",
               "longDescription": "Nextcloud Flow is the overhauled workflow engine in upcoming Nextcloud 18. This talk describes how it evolved, how it works internally, and especially how own components can be built, so you can set up automatized tasks in your Nextcloud."
+            },
+            {
+              "id": "a8867501-5c89-48b5-9308-58413fd998a9",
+              "title": "How (not) to build autonomous robots",
+              "episodeNumber": 10601,
+              "releaseDate": "2019-12-28T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Sasha"
+                }
+              ],
+              "content": {
+                "dateAdded": "2019-12-28T13:03:14.200+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-10601-eng-How_not_to_build_autonomous_robots.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 3299,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2019/10601-hd_preview.jpg",
+              "shortDescription": "Fables from building a startup in Silicon Valley",
+              "longDescription": "Over the past 2 years we've been building delivery robots - at first thought to be autonomous. We slowly came to the realization that it's not something we could easily do; but only after a few accidents, fires and pr disasters. We've all seen the TV show Silicon Valley, but have you actually peered underneath the curtain to see what's happening? In this entertaining talk, Sasha will share his first hand experience at building (and failing) a robotics delivery startup in Berkeley. Over the..."
+            },
+            {
+              "id": "3aae5c0a-9c9b-483a-8c09-b4402d749a82",
+              "title": "The Case for Scale in Cyber Security",
+              "episodeNumber": 11220,
+              "releaseDate": "2019-12-28T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Vincenzo Iozzo"
+                }
+              ],
+              "content": {
+                "dateAdded": "2019-12-28T12:47:53.485+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-11220-eng-The_Case_for_Scale_in_Cyber_Security.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1938,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2019/11220-hd_preview.jpg",
+              "shortDescription": "Security Track Keynote",
+              "longDescription": "The impact of scale in our field has been enormous and it has transformed the tools, the jobs and the face of the Infosec community. In this talk we discuss some of the ways in which defense has benefitted from scale, how the industry might be transitioning to a new phase of its growth and how the community will have to evolve to stay relevant."
             },
             {
               "id": "d16de585-1439-4939-a309-7913c7d840a2",
@@ -8074,33 +8128,6 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2019/10607-hd_preview.jpg",
               "shortDescription": "How simulations help us understand the Universe",
               "longDescription": "This year the Nobel prize in physics was awarded to three astronomers changing the understanding of the Universe and finding the first exoplanet. This is a good reason to dive into astronomy, numerics, and programming and to learn how modern astronomy creates the pictures and models of the reality we observe in the night sky. Let\u2019s find out together how we can simulate the Universe and grow new planets \u2013 computationally! In all ages people have gazed at the stars and tried to grasp the..."
-            },
-            {
-              "id": "d1d0c29a-a8c3-4c96-b98e-3823b3d27902",
-              "title": "The KGB Hack: 30 Years Later",
-              "episodeNumber": 11031,
-              "releaseDate": "2019-12-28T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Anja Drephal"
-                }
-              ],
-              "content": {
-                "dateAdded": "2019-12-28T16:42:45.421+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-11031-eng-The_KGB_Hack_30_Years_Later.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2866,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2019/11031-hd_preview.jpg",
-              "shortDescription": "Looking back at the perhaps most dramatic instance of hacking of the 1980s and the role it had in shaping the public image of the CCC.",
-              "longDescription": "This spring marked the 30th anniversary of the public uncovering of the so-called KGB Hack, bringing with it a number of new articles remembering the event and forging bridges to the present. This spring marked the 30th anniversary of the public uncovering of the so-called KGB Hack, bringing with it a number of new articles remembering the event and forging bridges to the present. The 36C3 seems an excellent opportunity to take a look back at the instance of hacking which, even more so than..."
             },
             {
               "id": "8db548a2-dec0-411f-97b3-a22c416b7111",
@@ -9841,33 +9868,6 @@
               "longDescription": "We will analyze the approach to tecnology (decisional method, mesh network and cloud) of a farming community near Bologna: Campi Aperti. Speaking about: human organization, connectivity, managing of a server, resources and incidents handler, femminism, maintaining and growing in a non-gerarchical organization. Technologies involved: humans, antennas, orchestrator of containers. Summarize the experience of this last 15 years of a group of farmers, the strong political impact about take care of..."
             },
             {
-              "id": "a8867501-5c89-48b5-9308-58413fd998a9",
-              "title": "How (not) to build autonomous robots",
-              "episodeNumber": 10601,
-              "releaseDate": "2019-12-28T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Sasha"
-                }
-              ],
-              "content": {
-                "dateAdded": "2019-12-28T13:03:14.200+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-10601-eng-How_not_to_build_autonomous_robots.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 3299,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2019/10601-hd_preview.jpg",
-              "shortDescription": "Fables from building a startup in Silicon Valley",
-              "longDescription": "Over the past 2 years we've been building delivery robots - at first thought to be autonomous. We slowly came to the realization that it's not something we could easily do; but only after a few accidents, fires and pr disasters. We've all seen the TV show Silicon Valley, but have you actually peered underneath the curtain to see what's happening? In this entertaining talk, Sasha will share his first hand experience at building (and failing) a robotics delivery startup in Berkeley. Over the..."
-            },
-            {
               "id": "b0fdc339-c0d7-4576-950f-0770b458f084",
               "title": "The Eye on the Nile",
               "episodeNumber": 10561,
@@ -11235,33 +11235,6 @@
           "seasonNumber": 1,
           "episodes": [
             {
-              "id": "3a571c21-31ed-453b-886d-7dea7b5751cd",
-              "title": "Internet of Dongs",
-              "episodeNumber": 9523,
-              "releaseDate": "2018-12-30T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Werner Schober"
-                }
-              ],
-              "content": {
-                "dateAdded": "2018-12-30T02:50:24.089+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9523-eng-Internet_of_Dongs.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 1960,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9523-hd_preview.jpg",
-              "shortDescription": "A long way to a vibrant future",
-              "longDescription": "With great pleasure comes great responsibility. A responsibility, which is not taken enough into consideration by the smart sex toy manufacturers as they should, while handling extremely sensitive data. As long as there is no serious breach, there is no problem, right? This was the basis for a research project (Master Thesis) called \u201cInternet of Dildos, a long way to a vibrant future\u201d, dealing with the assessment of smart sex toys and identification of vulnerabilities in those products,..."
-            },
-            {
               "id": "d7aa8828-4e06-4029-b962-1009815efa58",
               "title": "A Routing Interregnum: Internet infrastructure transition in Crimea after Russian annexation  ",
               "episodeNumber": 9864,
@@ -11287,6 +11260,64 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2018/9864-hd_preview.jpg",
               "shortDescription": "This lecture tells the story of Internet infrastructure transformations in Crimea, the peninsula disputed between Russia and Ukraine between 2014 and 2018. It is based on an extensive year-long...",
               "longDescription": "This lecture tells the story of Internet infrastructure transformations in Crimea, the peninsula disputed between Russia and Ukraine between 2014 and 2018. It is based on an extensive year-long study involving network measurements and interviews with key players. Crimea has become a \"laboratory\" where we can observe, in just 4 years, a rapid and profound transition of infrastructure, that deeply impacted the Internet Service Provider market, routing trajectories, Internet censorship practices..."
+            },
+            {
+              "id": "ea00d1e0-a580-415f-a8cf-f02883d939dc",
+              "title": "How Facebook tracks you on Android",
+              "episodeNumber": 9941,
+              "releaseDate": "2018-12-30T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Frederike Kaltheuner"
+                },
+                {
+                  "role": "actor",
+                  "name": "Christopher Weatherhead"
+                }
+              ],
+              "content": {
+                "dateAdded": "2018-12-30T19:14:29.958+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9941-eng-How_Facebook_tracks_you_on_Android.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2616,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9941-hd_preview.jpg",
+              "shortDescription": "(even if you don\u2019t have a Facebook account)",
+              "longDescription": "<p>In this talk, we\u2019re looking at third party tracking on Android. We\u2019ve captured and decrypted data in transit between our own devices and Facebook servers. It turns out that some apps routinely send Facebook information about your device and usage patterns - the second the app is opened. We\u2019ll walk you through the technical part of our analysis and end with a call to action: We believe that both Facebook and developers can do more to avoid oversharing, profiling and damaging the privacy of..."
+            },
+            {
+              "id": "3a571c21-31ed-453b-886d-7dea7b5751cd",
+              "title": "Internet of Dongs",
+              "episodeNumber": 9523,
+              "releaseDate": "2018-12-30T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Werner Schober"
+                }
+              ],
+              "content": {
+                "dateAdded": "2018-12-30T02:50:24.089+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9523-eng-Internet_of_Dongs.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1960,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9523-hd_preview.jpg",
+              "shortDescription": "A long way to a vibrant future",
+              "longDescription": "With great pleasure comes great responsibility. A responsibility, which is not taken enough into consideration by the smart sex toy manufacturers as they should, while handling extremely sensitive data. As long as there is no serious breach, there is no problem, right? This was the basis for a research project (Master Thesis) called \u201cInternet of Dildos, a long way to a vibrant future\u201d, dealing with the assessment of smart sex toys and identification of vulnerabilities in those products,..."
             },
             {
               "id": "25c54ce3-598c-42ee-8832-52fe9deae7ad",
@@ -12931,37 +12962,6 @@
               "longDescription": "The lecture will give an introduction into the \"EC Proposal for a Regulation on European Production and Preservation Orders for Electronic Evidence in Criminal Matters (COM (2018) 225 final)\" and . the impact to civil liberties of the users as well as the challenges for service providers of the diverse range of services covered by the proposal.<br> Urgent action is required <b>now</b> by diverse groups to fight the existing proposal and prevent it from becoming binding law throughout the EU.."
             },
             {
-              "id": "ea00d1e0-a580-415f-a8cf-f02883d939dc",
-              "title": "How Facebook tracks you on Android",
-              "episodeNumber": 9941,
-              "releaseDate": "2018-12-30T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Frederike Kaltheuner"
-                },
-                {
-                  "role": "actor",
-                  "name": "Christopher Weatherhead"
-                }
-              ],
-              "content": {
-                "dateAdded": "2018-12-30T19:14:29.958+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9941-eng-How_Facebook_tracks_you_on_Android.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2616,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9941-hd_preview.jpg",
-              "shortDescription": "(even if you don\u2019t have a Facebook account)",
-              "longDescription": "<p>In this talk, we\u2019re looking at third party tracking on Android. We\u2019ve captured and decrypted data in transit between our own devices and Facebook servers. It turns out that some apps routinely send Facebook information about your device and usage patterns - the second the app is opened. We\u2019ll walk you through the technical part of our analysis and end with a call to action: We believe that both Facebook and developers can do more to avoid oversharing, profiling and damaging the privacy of..."
-            },
-            {
               "id": "e77ef54a-5dd7-4be1-80c7-42726b273e6f",
               "title": "Matrix, the current status and year to date",
               "episodeNumber": 9400,
@@ -13122,91 +13122,6 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2018/9905-hd_preview.jpg",
               "shortDescription": "exploring the relations between design and perception of machines and the dynamics in between",
               "longDescription": "Why do navigation systems have feminine voices? We know Tay, Eliza, Siri not only as female names, but also as chatbots and software, which directly interact with humans. Although computer programs are per se genderless, gender seems not to be cancelled out in human-machine interaction, but why? This talk aims to examine how we map gender on computers and machines. This includes looking at software in machine-human interaction, as well as digging deeper into a cultural history of imagining..."
-            },
-            {
-              "id": "5909125c-6118-4cda-931a-8b936f81dda0",
-              "title": "Conquering Large Numbers at the LHC",
-              "episodeNumber": 9851,
-              "releaseDate": "2019-01-12T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Carsten Bittrich"
-                },
-                {
-                  "role": "actor",
-                  "name": "Stefanie Todt"
-                }
-              ],
-              "content": {
-                "dateAdded": "2019-01-12T19:00:25.137+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9851-eng-Conquering_Large_Numbers_at_the_LHC.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 2504,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9851-hd_preview.jpg",
-              "shortDescription": "From 1 000 000 000 000 000 to 10: Breaking down 14 Orders of Magnitude",
-              "longDescription": "We are going to outline the ingredients necessary to perform measurements at the LHC, starting from an ordinary bottle of hydrogen. Let us take you on a journey following the path of the protons from this bottle to being ready for collisions in one of the detectors. Once the collisions are recorded we show the approaches and tools on how to extract the metaphorical needle in the haystack. The Large Hadron Collider at CERN is one of the largest and most precise machines mankind has built. As a..."
-            },
-            {
-              "id": "87083bf8-f1e8-433d-8b51-ffece756bbd7",
-              "title": "Election Cybersecurity Progress Report",
-              "episodeNumber": 9917,
-              "releaseDate": "2018-12-27T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "J. Alex Halderman"
-                }
-              ],
-              "content": {
-                "dateAdded": "2018-12-27T17:11:25.422+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9917-eng-Election_Cybersecurity_Progress_Report.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 3578,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9917-hd_preview.jpg",
-              "shortDescription": "Will the U.S. be ready for 2020?",
-              "longDescription": "Recent attacks against elections in the U.S. and Europe demonstrate that nation-state attackers are becoming more aggressive, even as campaigning and voting are becoming increasingly reliant on computers. How much has changed since 2016, when the U.S. experienced unprecedented attacks on its election infrastructure? What has to happen to ensure that the 2020 presidential election is secure? In this talk, I'll give a progress report on election security in the U.S. and around the world,..."
-            },
-            {
-              "id": "6a5007f4-e7d6-4c63-9a10-26dd48a6eb6c",
-              "title": "SiliVaccine: North Korea's Weapon of Mass Detection",
-              "episodeNumber": 9375,
-              "releaseDate": "2018-12-27T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Mark Lechtik"
-                }
-              ],
-              "content": {
-                "dateAdded": "2018-12-27T19:03:31.079+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9375-eng-SiliVaccine_North_Koreas_Weapon_of_Mass_Detection.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 3164,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9375-hd_preview.jpg",
-              "shortDescription": "How I Learned to Stop Worrying and Love the Backdoor",
-              "longDescription": "<p>Meet SiliVaccine &ndash; North Korea's national Anti-Virus solution. SiliVaccine is deployed widely and exclusively in the DPRK, and has been continuously in development by dedicated government teams for over fifteen years. When we heard of this strange software, we were immediately driven to investigate it: it's not every day that you can catch a glimpse of the malware landscape inside the closed garden of the DPRK's intranet. In this talk, we will describe how we were able to obtain a..."
             },
             {
               "id": "c85de43e-107e-4247-b550-946f376e2ec4",
@@ -13431,6 +13346,37 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2018/10009-hd_preview.jpg",
               "shortDescription": "VR experience \"Beyond Slavery\"",
               "longDescription": "Let's think \"Beyond Slavery\": Afroroutes is a one-of-a-kind VR experience conceived as a journey through 3 displaced African heritages, immersing users in Rituals and Ceremonies to experience that well-conserved memory form, but also to feel the power of Music as a strong anthropological tool. Connecting Afro-diasporic narratives: alterity and heritage transcendence within the digital era, Afroroutes is a trigger to open a crucial debate about diasporic identity. Afroroutes is a VR experience..."
+            },
+            {
+              "id": "5909125c-6118-4cda-931a-8b936f81dda0",
+              "title": "Conquering Large Numbers at the LHC",
+              "episodeNumber": 9851,
+              "releaseDate": "2019-01-12T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Carsten Bittrich"
+                },
+                {
+                  "role": "actor",
+                  "name": "Stefanie Todt"
+                }
+              ],
+              "content": {
+                "dateAdded": "2019-01-12T19:00:25.137+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9851-eng-Conquering_Large_Numbers_at_the_LHC.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2504,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9851-hd_preview.jpg",
+              "shortDescription": "From 1 000 000 000 000 000 to 10: Breaking down 14 Orders of Magnitude",
+              "longDescription": "We are going to outline the ingredients necessary to perform measurements at the LHC, starting from an ordinary bottle of hydrogen. Let us take you on a journey following the path of the protons from this bottle to being ready for collisions in one of the detectors. Once the collisions are recorded we show the approaches and tools on how to extract the metaphorical needle in the haystack. The Large Hadron Collider at CERN is one of the largest and most precise machines mankind has built. As a..."
             },
             {
               "id": "e9095f5f-a38a-48da-b3d7-20da141b8b14",
@@ -13819,6 +13765,33 @@
               "longDescription": "In this talk, I discuss how to reliably find bugs in the Chrome IPC system with the goal of escaping the sandbox. I show how to enumerate the attack surface, how to identify the weak areas, and how to fuzz those areas efficiently to consistently produce bugs. Since the win32k lockdown on the Chrome renderer process, full chain Chrome exploits on Windows have become very rare, with the most recent successful competition exploit occurring in 2015. By applying new fuzzing strategies, I was able..."
             },
             {
+              "id": "87083bf8-f1e8-433d-8b51-ffece756bbd7",
+              "title": "Election Cybersecurity Progress Report",
+              "episodeNumber": 9917,
+              "releaseDate": "2018-12-27T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "J. Alex Halderman"
+                }
+              ],
+              "content": {
+                "dateAdded": "2018-12-27T17:11:25.422+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9917-eng-Election_Cybersecurity_Progress_Report.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 3578,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9917-hd_preview.jpg",
+              "shortDescription": "Will the U.S. be ready for 2020?",
+              "longDescription": "Recent attacks against elections in the U.S. and Europe demonstrate that nation-state attackers are becoming more aggressive, even as campaigning and voting are becoming increasingly reliant on computers. How much has changed since 2016, when the U.S. experienced unprecedented attacks on its election infrastructure? What has to happen to ensure that the 2020 presidential election is secure? In this talk, I'll give a progress report on election security in the U.S. and around the world,..."
+            },
+            {
               "id": "520b7c92-8bd1-424e-acc4-7cf15dd168a4",
               "title": "The Enemy ",
               "episodeNumber": 9999,
@@ -13993,6 +13966,33 @@
               "longDescription": "Lightning Talks are short lectures (almost) any congress participant may give! Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! For schedule info, please check out <a href=\"https://c3lt.de/35c3\">https://c3lt.de/35c3</a> and <a..."
             },
             {
+              "id": "6a5007f4-e7d6-4c63-9a10-26dd48a6eb6c",
+              "title": "SiliVaccine: North Korea's Weapon of Mass Detection",
+              "episodeNumber": 9375,
+              "releaseDate": "2018-12-27T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Mark Lechtik"
+                }
+              ],
+              "content": {
+                "dateAdded": "2018-12-27T19:03:31.079+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-9375-eng-SiliVaccine_North_Koreas_Weapon_of_Mass_Detection.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 3164,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2018/9375-hd_preview.jpg",
+              "shortDescription": "How I Learned to Stop Worrying and Love the Backdoor",
+              "longDescription": "<p>Meet SiliVaccine &ndash; North Korea's national Anti-Virus solution. SiliVaccine is deployed widely and exclusively in the DPRK, and has been continuously in development by dedicated government teams for over fifteen years. When we heard of this strange software, we were immediately driven to investigate it: it's not every day that you can catch a glimpse of the malware landscape inside the closed garden of the DPRK's intranet. In this talk, we will describe how we were able to obtain a..."
+            },
+            {
               "id": "eff16504-08ce-4de0-bf44-d877d286aac9",
               "title": "Citzens or subjects? The battle to control our bodies, speech and communications",
               "episodeNumber": 9372,
@@ -14022,6 +14022,53 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2018/9372-hd_preview.jpg",
               "shortDescription": "A call to action to defend our ePrivacy and eliminate upload filters",
               "longDescription": "Technology is the solution: What is the problem? This seems to be the motto. Algorithms may be about to control our free speech while tracking technologies could control our bodies and communications. Will we react or stay quiet? Technology is the solution: What is the problem? This seems to be the motto. Whether it is about preventing the dissemination of terrorist content or to prevent copyright infringements the solution from the legislator is upload filters. While content is controlled by..."
+            },
+            {
+              "id": "809b164e-a331-4005-a1d8-ebe55d61d64c",
+              "title": " Feminist Perspectives",
+              "episodeNumber": 10028,
+              "releaseDate": "2018-12-28T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "Geraldine de Bastion"
+                },
+                {
+                  "role": "actor",
+                  "name": "Em O'Sullivan"
+                },
+                {
+                  "role": "actor",
+                  "name": "Lena Mohr"
+                },
+                {
+                  "role": "actor",
+                  "name": "Hong Phuc Dang"
+                },
+                {
+                  "role": "actor",
+                  "name": "Le RESET"
+                },
+                {
+                  "role": "actor",
+                  "name": "feminist hackerspace"
+                }
+              ],
+              "content": {
+                "dateAdded": "2018-12-28T23:17:45.876+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-10028-eng-Feminist_Perspectives.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 4624,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2018/10028-hd_preview.jpg",
+              "shortDescription": "Inclusive and Diverse Spaces and Communities",
+              "longDescription": "A variety of initiatives aims at encouraging female engagement in the hacker and maker scene. We present there some promising approaches and key learnings in a joint panel discussion. Hong Phuc grew up in a small town in the Mekong Delta, south of Vietnam, She could never imagine how her life went a completely different path than what she was told as a young girl. Le RESET is a French feminist hackerspace created in 2016 by a small group of queer & feminist hackers and hacktivists. The goal..."
             },
             {
               "id": "b34662ae-f1c6-4711-9270-b5865f6dd6c8",
@@ -14362,53 +14409,6 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2018/9788-hd_preview.jpg",
               "shortDescription": "why clearing memory is hard.",
               "longDescription": "This presentation will start off with a simple problem (how do you clear memory that holds sensitive content). It explores numerous possible solutions, and presents real live facts and figures. bugs in common applications will be shown."
-            },
-            {
-              "id": "809b164e-a331-4005-a1d8-ebe55d61d64c",
-              "title": " Feminist Perspectives",
-              "episodeNumber": 10028,
-              "releaseDate": "2018-12-28T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "Geraldine de Bastion"
-                },
-                {
-                  "role": "actor",
-                  "name": "Em O'Sullivan"
-                },
-                {
-                  "role": "actor",
-                  "name": "Lena Mohr"
-                },
-                {
-                  "role": "actor",
-                  "name": "Hong Phuc Dang"
-                },
-                {
-                  "role": "actor",
-                  "name": "Le RESET"
-                },
-                {
-                  "role": "actor",
-                  "name": "feminist hackerspace"
-                }
-              ],
-              "content": {
-                "dateAdded": "2018-12-28T23:17:45.876+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2018/h264-hd/35c3-10028-eng-Feminist_Perspectives.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 4624,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2018/10028-hd_preview.jpg",
-              "shortDescription": "Inclusive and Diverse Spaces and Communities",
-              "longDescription": "A variety of initiatives aims at encouraging female engagement in the hacker and maker scene. We present there some promising approaches and key learnings in a joint panel discussion. Hong Phuc grew up in a small town in the Mekong Delta, south of Vietnam, She could never imagine how her life went a completely different path than what she was told as a young girl. Le RESET is a French feminist hackerspace created in 2016 by a small group of queer & feminist hackers and hacktivists. The goal..."
             }
           ]
         }
@@ -14460,33 +14460,6 @@
               "longDescription": "Briar is a peer-to-peer messaging app that is resistant to censorship and works even without internet access. The app encrypts all data end-to-end and also hides metadata by utilizing Tor onion services. Around the world communication is increasingly monitored and restricted. If communication can not be eavesdropped on, it is often blocked entirely. Less advanced states even block the entire internet nation-wide. We need to develop tools that are more resilient to these threats. Communication..."
             },
             {
-              "id": "0dbbb546-38e6-499f-bb93-a5539d114d1d",
-              "title": "avatar\u00b2",
-              "episodeNumber": 9195,
-              "releaseDate": "2017-12-29T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "nsr"
-                }
-              ],
-              "content": {
-                "dateAdded": "2017-12-29T19:18:57.217+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9195-eng-avatar.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 3326,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9195-hd_preview.jpg",
-              "shortDescription": "Towards an open source binary firmware analysis framework",
-              "longDescription": "Avatar\u00b2 is an open source framework for dynamic instrumentation and analysis of binary firmware, which was released in June 2017. This talk does not only introduce avatar\u00b2, but also focuses on the motivation and challenges for such a tool. Dynamic binary instrumentation and analysis are valuable assets for security analysis and testing, and while a variety of tools exist for desktop software, the tooling landscape for analysing low-level binary firmware directly interacting with hardware is..."
-            },
-            {
               "id": "7edaed35-e938-4a13-b21c-aac4bb0ebf94",
               "title": "Doping your Fitbit",
               "episodeNumber": 8908,
@@ -14516,6 +14489,60 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2017/8908-hd_preview.jpg",
               "shortDescription": "On Fitbit Firmware Modifications and Data Extraction",
               "longDescription": "Security architectures for wearables are challenging. We take a deeper look into the widely-used Fitbit fitness trackers. The Fitbit ecosystem is interesting to analyze, because Fitbit employs security measures such as end-to-end encryption and authentication to protect user data (and the Fitbit business model). Even though this goes beyond security mechanisms offered by other fitness tracker vendors, reverse-engineering the trackers enables us to launch practical attacks against Fitbit. In..."
+            },
+            {
+              "id": "ad3d2b65-ce5b-4c18-bf9d-1f56942aa0d3",
+              "title": "Fuck Dutch mass-surveillance: let's have a referendum!",
+              "episodeNumber": 9172,
+              "releaseDate": "2017-12-30T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "niinja"
+                }
+              ],
+              "content": {
+                "dateAdded": "2017-12-30T17:08:26.839+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9172-eng-Fuck_Dutch_mass-surveillance_lets_have_a_referendum.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1934,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9172-hd_preview.jpg",
+              "shortDescription": "Forcing the Netherlands to publicly debate privacy and the intelligence agencies",
+              "longDescription": "Dutch intelligence agencies will soon be allowed to analyse bulk data of civilians on a massive scale, by intercepting internet traffic and through real-time access to all kinds of databases. They will also start hacking third-parties. My friends and I want to stop this. We started an action to enforce a referendum on the law. Surprisingly, it worked! How do we get most out of this opportunity? In this talk I will discuss what the new spying law means for the Netherlands, how we campaigned to..."
+            },
+            {
+              "id": "0dbbb546-38e6-499f-bb93-a5539d114d1d",
+              "title": "avatar\u00b2",
+              "episodeNumber": 9195,
+              "releaseDate": "2017-12-29T01:00:00.000+01:00",
+              "credits": [
+                {
+                  "role": "actor",
+                  "name": "nsr"
+                }
+              ],
+              "content": {
+                "dateAdded": "2017-12-29T19:18:57.217+01:00",
+                "videos": [
+                  {
+                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9195-eng-avatar.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 3326,
+                "language": "en"
+              },
+              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9195-hd_preview.jpg",
+              "shortDescription": "Towards an open source binary firmware analysis framework",
+              "longDescription": "Avatar\u00b2 is an open source framework for dynamic instrumentation and analysis of binary firmware, which was released in June 2017. This talk does not only introduce avatar\u00b2, but also focuses on the motivation and challenges for such a tool. Dynamic binary instrumentation and analysis are valuable assets for security analysis and testing, and while a variety of tools exist for desktop software, the tooling landscape for analysing low-level binary firmware directly interacting with hardware is..."
             },
             {
               "id": "51b586be-500c-436e-b70c-fc433e65c4be",
@@ -15954,33 +15981,6 @@
               "thumbnail": "https://static.media.ccc.de/media/congress/2017/8848-hd_preview.jpg",
               "shortDescription": "Type confusion, often combined with use-after-free, is the main attack vector to compromise modern C++ software like browsers or virtual machines. Typecasting is a core principle that enables...",
               "longDescription": "Type confusion, often combined with use-after-free, is the main attack vector to compromise modern C++ software like browsers or virtual machines. Typecasting is a core principle that enables modularity in C++. For performance, most typecasts are only checked statically, i.e., the check only tests if a cast is allowed for the given type hierarchy, ignoring the actual runtime type of the object. Using an object of an incompatible base type instead of a derived type results in type confusion...."
-            },
-            {
-              "id": "ad3d2b65-ce5b-4c18-bf9d-1f56942aa0d3",
-              "title": "Fuck Dutch mass-surveillance: let's have a referendum!",
-              "episodeNumber": 9172,
-              "releaseDate": "2017-12-30T01:00:00.000+01:00",
-              "credits": [
-                {
-                  "role": "actor",
-                  "name": "niinja"
-                }
-              ],
-              "content": {
-                "dateAdded": "2017-12-30T17:08:26.839+01:00",
-                "videos": [
-                  {
-                    "url": "https://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9172-eng-Fuck_Dutch_mass-surveillance_lets_have_a_referendum.mp4",
-                    "quality": "HD",
-                    "videoType": "MP4"
-                  }
-                ],
-                "duration": 1934,
-                "language": "en"
-              },
-              "thumbnail": "https://static.media.ccc.de/media/congress/2017/9172-hd_preview.jpg",
-              "shortDescription": "Forcing the Netherlands to publicly debate privacy and the intelligence agencies",
-              "longDescription": "Dutch intelligence agencies will soon be allowed to analyse bulk data of civilians on a massive scale, by intercepting internet traffic and through real-time access to all kinds of databases. They will also start hacking third-parties. My friends and I want to stop this. We started an action to enforce a referendum on the law. Surprisingly, it worked! How do we get most out of this opportunity? In this talk I will discuss what the new spying law means for the Netherlands, how we campaigned to..."
             },
             {
               "id": "c35e099a-f620-41ea-8e99-16cade147196",

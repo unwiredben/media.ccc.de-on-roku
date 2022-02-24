@@ -18,7 +18,7 @@ feedHeader:
   language: en
   categories:
     - name: Featured
-      query: '2020'
+      query: '2020 or 2021'
       order: most_recent
     - name: Chaos Computer Congresses
       query: congress

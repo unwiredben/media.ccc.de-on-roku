@@ -79,11 +79,11 @@ def process_event(event):
         "content": {},
         "thumbnail": event["poster_url"],
         "shortDescription": textwrap.shorten(
-        	event["subtitle"] or event["description"] or event["title"],
+        	event["subtitle"] or event["description"] or event["title"] or "No description provided",
         	width=200,
         	placeholder="..."),
         "longDescription": textwrap.shorten(
-        	event["description"] or event["title"],
+        	event["description"] or event["title"] or "No description provided",
         	width=500,
         	placeholder="...")
 	}
